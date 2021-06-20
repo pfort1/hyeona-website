@@ -6,10 +6,10 @@ color: "#0676ce"
 sections:
   - header:
       header_centered: false
-      text_one: White Castle is loved by those who know it, but known by too few—it’s
-        a “cult” brand. Their goal was to welcome more people into the fold with
-        a new brand campaign. We wanted to transcend the perception of White
-        Castle as a restaurant, or a logo on a box, by reimagining it as a
+      text_one: White Castle is loved by those who know it, but known by too few —
+        it’s a “cult” brand. Their goal was to welcome more people into the fold
+        with a new brand campaign. We wanted to go beyond the perception of
+        White Castle as a restaurant, or a logo on a box, by reimagining it as a
         community.
       text_two: >-
         “Long Live Sliders” is an on-going brand campaign that celebrates what
@@ -52,9 +52,12 @@ sections:
     misc_layout: false
     media_gallery:
       - type: text
-        txt: "### If burgers are 9 to 5, sliders are 5 to 9. And we mean 5pm to 9am. You
-          know, when the fun stuff happens. Sliders are passionate… edgy… and
-          they dance like no one’s watching."
+        txt: >-
+          ### If burgers are 9 to 5, sliders are 5 to 9. And we mean 5pm to 9am.
+          You know, when the fun stuff happens.
+
+
+          ### Sliders are passionate… edgy… and they dance like no one’s watching.
       - type: image
         img: /img/uploads/wc-logo.gif
     section_title: Copy
