@@ -104,12 +104,12 @@ sections:
     section_title: Social Videos
     media_gallery:
       - type: video
-        background: false
+        background: true
         vid: "565124826"
       - type: video
-        background: false
+        background: true
         vid: "565124454"
       - type: video
-        background: false
+        background: true
         vid: "565124442"
 ---
