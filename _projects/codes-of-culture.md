@@ -62,17 +62,17 @@ sections:
         background: true
         vid: "564435328"
       - type: image
-        img: /img/uploads/60cbc5e18952152c04ba8ada_att_1.jpeg
-      - type: image
         img: /img/uploads/60cbf014009785241aca240d_gunner_tshirt+2.png
+      - type: image
+        img: /img/uploads/60cbc5e18952152c04ba8ada_att_1.jpeg
+      - type: video
+        background: true
+        vid: "564435969"
       - type: video
         background: true
         vid: "564378298"
       - type: image
         img: /img/uploads/60cbc5e284f45d4ff533fc7f_Dunk.jpg
-      - type: video
-        background: true
-        vid: "564435969"
     section_title: Image Gallery
   - header:
       header_centered: false
