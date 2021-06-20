@@ -85,7 +85,7 @@ sections:
     section_title: social grid
   - header:
       header_centered: false
-    col_count: 2
+    col_count: 3
     bg_color_check: false
     misc_layout: false
     section_title: social grid
