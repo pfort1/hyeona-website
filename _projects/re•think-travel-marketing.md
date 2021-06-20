@@ -36,10 +36,15 @@ sections:
       - type: image
         img: /img/uploads/rethink-business-cards.jpg
   - header:
-      header_centered: false
+      header_centered: true
       text_one: Here are some page designs from the website. See full website for
         Re•think Travel Marketing[](rethinktravel.marketing)
     col_count: 2
     bg_color_check: false
     section_title: Website
+  - header:
+      header_centered: false
+    col_count: 2
+    bg_color_check: false
+    section_title: ""
 ---
