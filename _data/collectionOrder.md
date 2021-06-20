@@ -1,0 +1,10 @@
+---
+collection:
+  - collectionName: Long Live Sliders
+  - collectionName: Get Love Delivered
+  - collectionName: Re•think Travel Marketing
+  - collectionName: Codes of Culture
+  - collectionName: I'm Voting (You Should Too)
+  - collectionName: Taste the Pollution
+  - collectionName: Adnams Party Pack
+---
