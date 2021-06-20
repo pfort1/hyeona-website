@@ -52,9 +52,12 @@ sections:
     misc_layout: false
     media_gallery:
       - type: text
-        txt: "### If burgers are 9 to 5, sliders are 5 to 9. And we mean 5pm to 9am. You
-          know, when the fun stuff happens. Sliders are passionate… edgy… and
-          they dance like no one’s watching."
+        txt: >-
+          ### If burgers are 9 to 5, sliders are 5 to 9. And we mean 5pm to 9am.
+          You know, when the fun stuff happens.
+
+
+          ### Sliders are passionate… edgy… and they dance like no one’s watching.
       - type: image
         img: /img/uploads/wc-logo.gif
     section_title: Copy
