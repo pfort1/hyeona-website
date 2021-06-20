@@ -99,7 +99,7 @@ sections:
       header_centered: false
     col_count: 3
     bg_color_check: true
-    section_title: social grid
+    section_title: videos 6s
     media_gallery:
       - type: video
         background: false
