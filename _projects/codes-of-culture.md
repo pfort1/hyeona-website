@@ -13,7 +13,7 @@ sections:
         3-digit codes.
       text_two: >-
         What does it mean to rep the (212), (404), (312) or (310)? We started
-        the conversation through billboards, long-form films, live events, radio
+        the conversation through billboards, short films, live events, radio
         campaigns, meme generators, brand partnerships and much more.
 
 
@@ -48,11 +48,11 @@ sections:
       - type: image
         img: /img/uploads/60cbc5cd8884e067107758c6_att_3.jpg
   - header:
-      header_centered: false
-      text_one: The 3 digits that hold us all together, that show us where our home
-        is, where our roots are. 3 digits that represent what we stand for. 3
-        digits only we can understand, it’s the code of our thing, code of our
-        youth, the code of our generation.
+      header_centered: true
+      text_one: "## The 3 digits that hold us all together, that show us where our
+        home is, where our roots are. 3 digits that represent what we stand for.
+        The 3 digits only we can understand, it’s the code of our thing, the
+        code of our youth, the code of our generation."
     col_count: 2
     bg_color_check: false
     media_gallery:
