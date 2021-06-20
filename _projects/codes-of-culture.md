@@ -99,7 +99,7 @@ sections:
         background: true
         img: /img/uploads/60cbc5ecc82158c2789892e8_four_screens.png
       - type: video
-        background: false
+        background: true
         vid: "564033892"
   - header:
       header_centered: false
