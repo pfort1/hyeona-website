@@ -80,7 +80,7 @@ sections:
     col_count: 3
     bg_color_check: true
     misc_layout: false
-    section_title: social grid
+    section_title: gif grid
     media_gallery:
       - type: image
         img: /img/uploads/lls-rainbow.gif
