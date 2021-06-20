@@ -2,7 +2,7 @@
 layout: project
 title: Adnams Party Pack
 bg_video: "564024029"
-color: "#fbb50f"
+color: "#f58c2f"
 sections:
   - header:
       header_centered: false
@@ -24,9 +24,10 @@ sections:
       - type: video
         background: false
         vid: "327618675"
+    section_title: header
   - header:
       header_centered: false
-    col_count: 1
+    col_count: 2
     bg_color_check: false
     media_gallery:
       - type: video
@@ -35,4 +36,5 @@ sections:
       - type: video
         background: true
         vid: "564453258"
+    section_title: Gallery
 ---

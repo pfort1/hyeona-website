@@ -2,14 +2,14 @@
 layout: project
 title: Long Live Sliders
 bg_video: "565116989"
-color: "#4caae1"
+color: "#0676ce"
 sections:
   - header:
       header_centered: false
-      text_one: White Castle is loved by those who know it, but known by too few—it’s
-        a “cult” brand. Their goal was to welcome more people into the fold with
-        a new brand campaign. We wanted to transcend the perception of White
-        Castle as a restaurant, or a logo on a box, by reimagining it as a
+      text_one: White Castle is loved by those who know it, but known by too few —
+        it’s a “cult” brand. Their goal was to welcome more people into the fold
+        with a new brand campaign. We wanted to go beyond the perception of
+        White Castle as a restaurant, or a logo on a box, by reimagining it as a
         community.
       text_two: >-
         “Long Live Sliders” is an on-going brand campaign that celebrates what
@@ -52,9 +52,12 @@ sections:
     misc_layout: false
     media_gallery:
       - type: text
-        txt: "### If burgers are 9 to 5, sliders are 5 to 9. And we mean 5pm to 9am. You
-          know, when the fun stuff happens. Sliders are passionate… edgy… and
-          they dance like no one’s watching."
+        txt: >-
+          ### If burgers are 9 to 5, sliders are 5 to 9. And we mean 5pm to 9am.
+          You know, when the fun stuff happens.
+
+
+          ### Sliders are passionate… edgy… and they dance like no one’s watching.
       - type: image
         img: /img/uploads/wc-logo.gif
     section_title: Copy
@@ -80,31 +83,29 @@ sections:
     col_count: 3
     bg_color_check: true
     misc_layout: false
-    section_title: social grid
+    section_title: gif grid
     media_gallery:
-      - type: image
-        img: /img/uploads/wc-logo.gif
       - type: image
         img: /img/uploads/lls-rainbow.gif
       - type: image
-        img: /img/uploads/share-love.gif
-      - type: image
-        img: /img/uploads/ezgif.com-optimize.gif
-      - type: image
         img: /img/uploads/10-sack.gif
       - type: image
-        img: /img/uploads/wc_giphy_sliderslides.gif
+        img: /img/uploads/slider-dm.gif
       - type: image
         img: /img/uploads/cool-slider.gif
       - type: image
         img: /img/uploads/slider-chain.gif
       - type: image
+        img: /img/uploads/wc_giphy_sliderslides.gif
+      - type: image
+        img: /img/uploads/ezgif.com-optimize.gif
+      - type: image
+        img: /img/uploads/share-love.gif
+      - type: image
         img: /img/uploads/disco-ball.gif
   - header:
       header_centered: true
-      text_one: |-
-        ### In life, there are burgers, and there are sliders.\
-        Don’t be a burger. Long Live Sliders.
+      text_one: ""
       text_two: ""
     col_count: 1
     bg_color_check: false
@@ -115,6 +116,16 @@ sections:
       - type: image
         img: /img/uploads/60ce8ae082c9a8cf5d4c4b7a_LLS_Brand_Wild_Postings.jpg
     section_title: Featured Videos
+  - header:
+      header_centered: true
+      text_one: |-
+        ## In life, there are burgers, and there are sliders. Don’t be a burger.
+
+        ## Long Live Sliders.
+    col_count: 2
+    bg_color_check: false
+    misc_layout: false
+    section_title: Copy
   - header:
       header_centered: false
     col_count: 3

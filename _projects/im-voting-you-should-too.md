@@ -53,9 +53,19 @@ sections:
         img: /img/uploads/60cd29ab0e41a3ca06afe084_4.jpg
     section_title: Images
   - header:
-      header_centered: false
+      header_centered: true
       text_one: "These are some of the UGC content posted on Instagram through #ImVoting"
+    col_count: 3
+    bg_color_check: false
+    misc_layout: false
+    section_title: social grid
     media_gallery:
+      - type: image
+        img: /img/uploads/60cce083a37da5ef5fd848f4_voting_UGC__Layer Comp 2.jpg
+      - type: image
+        img: /img/uploads/60cce0923868a8819e38284d_voting_UGC__Layer Comp 12.jpg
+      - type: image
+        img: /img/uploads/60cce09cfbf2150cec31f288_voting_UGC__Layer Comp 14.jpg
       - type: image
         img: /img/uploads/60cce0b1af6db14ba56a4bde_voting_UGC__Layer Comp 21.jpg
       - type: image
@@ -63,33 +73,17 @@ sections:
       - type: image
         img: /img/uploads/60cce0c12b49360f054e37fd_voting_UGC__Layer Comp 19.jpg
       - type: image
+        img: /img/uploads/60cce101195f0e94bb6bebd5_voting_UGC__Layer Comp 9.jpg
+      - type: image
         img: /img/uploads/60cce0cba37da58889d84bef_voting_UGC__Layer Comp 16.jpg
       - type: image
         img: /img/uploads/60cce0f6a37da58164d84c56_voting_UGC__Layer Comp 13.jpg
       - type: image
-        img: /img/uploads/60cce09cfbf2150cec31f288_voting_UGC__Layer Comp 14.jpg
-      - type: image
-        img: /img/uploads/60cce14a5efaf1446af319f0_voting_UGC__Layer Comp 11.jpg
-      - type: image
-        img: /img/uploads/60cce083a37da5ef5fd848f4_voting_UGC__Layer Comp 2.jpg
-      - type: image
-        img: /img/uploads/60cce101195f0e94bb6bebd5_voting_UGC__Layer Comp 9.jpg
-      - type: image
-        img: /img/uploads/60cce0923868a8819e38284d_voting_UGC__Layer Comp 12.jpg
-      - type: image
         img: /img/uploads/60cce1143868a88542382b18_voting_UGC__Layer Comp 18.jpg
       - type: image
         img: /img/uploads/60cce1261746e1fc311acae1_voting_UGC__Layer Comp 10.jpg
-    col_count: 3
-    bg_color_check: false
-    section_title: social grid
-  - header:
-      header_centered: false
-    col_count: 3
-    bg_color_check: false
-    misc_layout: false
-    section_title: social grid
-    media_gallery:
+      - type: image
+        img: /img/uploads/60cce14a5efaf1446af319f0_voting_UGC__Layer Comp 11.jpg
       - type: image
         img: /img/uploads/voting_ugc__0005_img_4617.jpg
       - type: image
