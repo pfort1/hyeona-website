@@ -90,8 +90,7 @@ sections:
   - header:
       header_centered: false
       text_one: People could even create their own memes on the
-        campaign [website](https://www.codesofculture.com/). Here are a few
-        examples of the UGC content.
+        campaign [website](https://www.codesofculture.com/).
     col_count: 1
     bg_color_check: false
     media_gallery:
@@ -118,4 +117,5 @@ sections:
         img: /img/uploads/60cbc105eb874ac5bf4f6539_Social_1.jpg
       - type: image
         img: /img/uploads/60cbc105f36cd1031ab458e8_Social_3.jpg
+    section_title: Here are a few examples of the UGC content.
 ---
