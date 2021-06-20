@@ -33,7 +33,7 @@ sections:
       header_centered: false
       text_one: Posters and out-of-home spaces became canvases to showcase different
         cultures, local spots and hometown heroes.
-      text_two: "## The 3 digits that hold us all together, that show us where our
+      text_two: "### The 3 digits that hold us all together, that show us where our
         home is, where our roots are, what we stand for. The 3 digits only we
         can understand, it’s the code of our thing, the code of our youth, the
         code of our generation."
