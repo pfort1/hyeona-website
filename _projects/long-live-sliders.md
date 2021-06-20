@@ -83,23 +83,23 @@ sections:
     section_title: social grid
     media_gallery:
       - type: image
-        img: /img/uploads/chicken-ring-2.gif
-      - type: image
         img: /img/uploads/lls-rainbow.gif
-      - type: image
-        img: /img/uploads/share-love.gif
-      - type: image
-        img: /img/uploads/ezgif.com-optimize.gif
       - type: image
         img: /img/uploads/10-sack.gif
       - type: image
+        img: /img/uploads/cool-slider.gif
+      - type: image
         img: /img/uploads/wc_giphy_sliderslides.gif
       - type: image
-        img: /img/uploads/cool-slider.gif
+        img: /img/uploads/chicken-ring-2.gif
+      - type: image
+        img: /img/uploads/share-love.gif
       - type: image
         img: /img/uploads/slider-chain.gif
       - type: image
         img: /img/uploads/disco-ball.gif
+      - type: image
+        img: /img/uploads/ezgif.com-optimize.gif
   - header:
       header_centered: true
       text_one: >-
