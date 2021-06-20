@@ -74,15 +74,32 @@ sections:
         img: /img/uploads/60cbb5fbeb874a7da44f34e7_LLS_5.jpg
       - type: image
         img: /img/uploads/60cbb5fb86e6d5e617141465_LLS_2.jpg
+    section_title: Images Two Column
+  - header:
+      header_centered: false
+    col_count: 3
+    bg_color_check: true
+    misc_layout: false
+    section_title: social grid
+    media_gallery:
+      - type: image
+        img: /img/uploads/wc-logo.gif
       - type: image
         img: /img/uploads/lls-rainbow.gif
       - type: image
         img: /img/uploads/share-love.gif
       - type: image
+        img: /img/uploads/ezgif.com-optimize.gif
+      - type: image
+        img: /img/uploads/10-sack.gif
+      - type: image
+        img: /img/uploads/wc_giphy_sliderslides.gif
+      - type: image
         img: /img/uploads/cool-slider.gif
       - type: image
-        img: /img/uploads/slider-dm.gif
-    section_title: Images Two Column
+        img: /img/uploads/slider-chain.gif
+      - type: image
+        img: /img/uploads/disco-ball.gif
   - header:
       header_centered: true
       text_one: |-
