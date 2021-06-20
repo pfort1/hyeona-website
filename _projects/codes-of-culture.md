@@ -30,13 +30,10 @@ sections:
         img: /img/uploads/60cbc605870588d0a7bb4c45_att_hero.jpg
     section_title: Intro
   - header:
-      header_centered: false
+      header_centered: true
       text_one: Posters and out-of-home spaces became canvases to showcase different
         cultures, local spots and hometown heroes.
-      text_two: "### The 3 digits that hold us all together, that show us where our
-        home is, where our roots are, what we stand for. The 3 digits only we
-        can understand, it’s the code of our thing, the code of our youth, the
-        code of our generation."
+      text_two: ""
     col_count: 2
     bg_color_check: false
     media_gallery:
@@ -52,7 +49,16 @@ sections:
         img: /img/uploads/60cbc5cd8884e067107758c6_att_3.jpg
     section_title: OOH
   - header:
-      header_centered: false
+      header_centered: true
+      text_one: "### The 3 digits that hold us all together, that show us where our
+        home is, where our roots are, what we stand for. The 3 digits only we
+        can understand, it’s the code of our thing, the code of our youth, the
+        code of our generation."
+    col_count: 2
+    bg_color_check: false
+    section_title: Copy
+  - header:
+      header_centered: true
       text_one: All the content and experiences were rooted in the culture of each
         area code and created an opportunity to celebrate the local pride.
       text_two: ""
