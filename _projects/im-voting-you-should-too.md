@@ -97,7 +97,13 @@ sections:
       text_one: We even created shareable memes and GIFs on Giphy.
     media_gallery:
       - type: image
+        img: /img/uploads/c1dda2_c1d10dea4baf44ceab240c7f09442a7a~mv2.jpg
+      - type: image
+        img: /img/uploads/60cd2b4f06d8350f2a9f54e0_lindsay.gif
+      - type: image
         img: /img/uploads/60cc281d9f1ddad4cc6d24f9_5cc1119eb926f9740d8f13b5_c1dda2_f5389ee5500c44e89fecf6e6613edcc3_mv2.gif
+      - type: image
+        img: /img/uploads/c1dda2_3c42b2ff4748474bad0bbfe052f699c8~mv2_d_2500_1667_s_2.jpg
       - type: image
         img: /img/uploads/60cd2b642b493650804f8b2e_c1dda2_2d6311ffca73412e9ab4b8a7042089d8~mv2.gif
       - type: image
@@ -108,8 +114,6 @@ sections:
         img: /img/uploads/60cc280599273817b432c129_5cc111a1198b8d9570c40992_c1dda2_91a772dab09e472cb36ede3e3e758c0a_mv2.gif
       - type: image
         img: /img/uploads/60cd2b5a102e0b3a0f461496_c1dda2_a6dadf62449e4ad98365ecba146d7632~mv2.gif
-      - type: image
-        img: /img/uploads/60cd2b4f06d8350f2a9f54e0_lindsay.gif
     col_count: 3
     bg_color_check: true
     section_title: Social Gifs
