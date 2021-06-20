@@ -83,7 +83,7 @@ sections:
     section_title: social grid
     media_gallery:
       - type: image
-        img: /img/uploads/wc-logo.gif
+        img: /img/uploads/chicken-ring-2.gif
       - type: image
         img: /img/uploads/lls-rainbow.gif
       - type: image
@@ -102,9 +102,12 @@ sections:
         img: /img/uploads/disco-ball.gif
   - header:
       header_centered: true
-      text_one: |-
-        ### In life, there are burgers, and there are sliders.\
-        Don’t be a burger. Long Live Sliders.
+      text_one: >-
+        ### In life, there are burgers, and there are sliders. Don’t be a
+        burger.
+
+
+        ### Long Live Sliders.
       text_two: ""
     col_count: 1
     bg_color_check: false
