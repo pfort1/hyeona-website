@@ -743,6 +743,10 @@ a:hover {
   min-height: 380px;
 }
 
+.post-content[id="1"] {
+  padding: 70px 30px 70px;
+}
+
 .post-content-inner {
   width: 100%;
   max-width: 1100px;

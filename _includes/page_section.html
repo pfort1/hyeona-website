@@ -1,4 +1,4 @@
-<div class="post-content {% if !section.bg_color_check %}no-bg-color{% endif %}" {% if section.bg_color_check %}style="background-color: {{page.color}};"{% endif %}>
+<div id="{{forloop.index}}" class="post-content {% if section.bg_color_check == false %}no-bg-color{% endif %}" {% if section.bg_color_check %}style="background-color: {{page.color}};"{% endif %}>
     
     {% include section_header.html %}
 
