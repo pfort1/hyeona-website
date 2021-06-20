@@ -8,6 +8,10 @@
         <div class="vimeo-item{% if media.background != true %} no-autoplay{% endif %}" style="padding-top: 56.25%;position:relative;">
             <iframe src="https://player.vimeo.com/video/{{media.vid}}{% if media.background == true %}?background=true{% endif %}" width="640" height="360" frameborder="0" allow="autoplay"></iframe>
         </div>
+    {% elsif media.type == 'text' %}
+        <div class="content-text">
+            <div class="w-richtext">{{media.txt|markdownify }}</div>
+        </div>
     {% endif %}
     {% endfor %}
 </div>

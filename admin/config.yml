@@ -53,6 +53,11 @@ collections:
                 fields: 
                   - {label: "Video", name: "vid", widget: "string", required: false}
                   - {label: "Background", name: "background", widget: "boolean", default: false, required: false}
+              - label: 'Text'
+                name: 'text'
+                widget: object
+                summary: '{{fields.txt}}'
+                field: {label: "Text", name: "txt", minimal: true, widget: "markdown", required: false}
           - label: "Column count"
             name: "col_count"
             widget: "number"
