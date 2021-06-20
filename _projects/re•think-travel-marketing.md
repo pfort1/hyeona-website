@@ -12,19 +12,30 @@ sections:
         to create more sustainable and stronger solutions for travel marketing.
       text_two: >-
         This was a branding project for the visual identity of the agency, which
-        included: a website, promotional video, social media branding, etc. 
+        included: a [website](https://rethinktravel.marketing), promotional
+        video, social media branding, etc. 
 
 
         Client: Re•Think Travel Marketing\
 
         Website development by [Pierre Fort](https://www.pierremariefort.com/).
     col_count: 1
-    bg_color_check: false
+    bg_color_check: true
     section_title: Intro
     media_gallery:
       - type: video
         background: false
         vid: "448732059"
+  - header:
+      header_centered: false
+    col_count: 1
+    bg_color_check: false
+    misc_layout: false
+    section_title: Logo animation
+    media_gallery:
+      - type: video
+        background: true
+        vid: "563989505"
   - header:
       header_centered: false
     col_count: 2
@@ -37,11 +48,32 @@ sections:
         img: /img/uploads/rethink-business-cards.jpg
   - header:
       header_centered: true
-      text_one: Here are some page designs from the website. See full website for
-        Re•think Travel Marketing[](rethinktravel.marketing)
-    col_count: 2
+      text_one: Here are some page designs. See [full website
+        here](https://www.rethinktravel.marketing).
+    col_count: 1
     bg_color_check: false
     section_title: Website
+    media_gallery:
+      - type: video
+        background: true
+        vid: "563989454"
+      - type: image
+        img: /img/uploads/rethink-who-we-are.jpg
+  - header:
+      header_centered: false
+    col_count: 2
+    bg_color_check: false
+    misc_layout: false
+    section_title: Logo Images
+    media_gallery:
+      - type: image
+        img: /img/uploads/rethink-image_1.jpg
+      - type: image
+        img: /img/uploads/rethink-image_2.jpg
+      - type: image
+        img: /img/uploads/rethink-image_3.jpg
+      - type: image
+        img: /img/uploads/rethink-image_4.jpg
   - header:
       header_centered: false
     col_count: 3
@@ -61,9 +93,9 @@ sections:
       - type: image
         img: /img/uploads/social_7.jpeg
       - type: image
-        img: /img/uploads/social_4.jpeg
+        img: /img/uploads/social_6.jpg
       - type: image
         img: /img/uploads/social_5.jpg
       - type: image
-        img: /img/uploads/social_6.jpg
+        img: /img/uploads/social_4.jpeg
 ---
