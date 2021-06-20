@@ -8,19 +8,6 @@ local_backend: true
 media_folder: "img/uploads" # Folder where user uploaded files should go
 
 collections:
-  - label: "settings"
-    name: "settings"
-    files:
-      - label: "Order"
-        name: "order"
-        file: "_settings/order.md"
-        fields:
-          - label: Featured Posts
-            name: featured
-            widget: ncw-reorder
-            collection: projects
-            id_field: id
-            display_template: '{{title}}'
   - label: "Projects"
     name: "projects"
     folder: "_projects"
@@ -73,5 +60,23 @@ collections:
             max: 3
             step: 1
           - {label: "Backgrond Color", name: "bg_color_check", widget: "boolean", default: false}
-
+          - {label: "Misc Layout", name: "misc_layout", widget: "boolean", default: false, required: false}
+  - name: settings
+    label: Settings
+    files:
+    - name: collectionOrder
+      label: Collection Order
+      file: _data/collectionOrder.md
+      fields:
+        - label: Collection
+          name: collection
+          widget: list
+          fields: 
+            - label: Collection Name 
+              name: collectionName 
+              widget: relation
+              collection: projects
+              searchFields: [title]
+              valueField: title
+              default: projects
 

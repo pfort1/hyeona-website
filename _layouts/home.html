@@ -4,10 +4,28 @@ layout: default
 
 <div class="w-dyn-list" id="home-collection">
     <div role="list" class="collection-list w-dyn-items">
-        {% for item in site.projects %}
+        {%- capture order-%}
+        {%- for order in site.data.collectionOrder.collection -%}{{ order.collectionName }}{%- if forloop.last == false -%},{%- endif -%}{%- endfor -%}
+        {%- endcapture -%}
+
+        {%- capture projects -%}
+        {%- for p in site.projects -%}{{ p.title }}{%- if forloop.last == false -%},{%- endif -%}{%- endfor -%}
+        {%- endcapture -%}
+
+        {%- assign order = order | split: ',' -%}
+        {%- assign projects = projects | split: ',' -%}
+
+        {%- assign all = order | concat: projects | uniq  -%}
+
+        {%- for i in all  -%}
+        {%- for item in site.projects -%}
+        {%- if i == item.title -%}
+        
         <div role="listitem" class="collection-item w-dyn-item">
             {% include home-item.html %}
         </div>
+        {% endif %}        
+        {% endfor %}
         {% endfor %}
     </div>
 </div>

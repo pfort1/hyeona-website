@@ -1,13 +1,14 @@
-{% if section.header.text_one %}
-<div class="post-content-inner grid{% if section.header.text_two %} two-column{% endif %}">
+{% assign characterCountOne = section.header.text_one|size %}
+{% assign characterCountTwo = section.header.text_two|size %}
 
+{% if section.header.text_one and characterCountOne != 0 %}
+<div class="post-content-inner grid{% if section.header.text_two and characterCountTwo != 0 %} two-column{% endif %}">
     {% if section.header.text_one %}
     <div class="content-text">
         <div class="w-richtext">{{section.header.text_one|markdownify }}</div>
     </div>
     {% endif %}
-
-    {% if section.header.text_two %}
+    {% if section.header.text_two and characterCountTwo != 0 %}
     <div class="content-text">
         <div class="w-richtext">{{section.header.text_two|markdownify }}</div>
     </div>
