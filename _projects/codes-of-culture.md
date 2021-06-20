@@ -17,9 +17,6 @@ sections:
         campaigns, meme generators, brand partnerships and much more.
 
 
-        ‍
-
-
         Client: AT&T\
 
         Agency: Translation
