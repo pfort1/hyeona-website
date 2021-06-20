@@ -17,21 +17,18 @@ sections:
         perfection.
 
 
-        ‍
-
-
         Client: Adnams (UK)[\
 
         2019 D&AD New Blood Awards Pencil Winner](https://www.dandad.org/awards/new-blood/2019/adnams/3521/adnams-taste-the-pollution/)
-    col_count: 2
-    bg_color_check: false
+    col_count: 1
+    bg_color_check: true
     media_gallery:
       - type: video
         background: false
         vid: "327618512"
     section_title: Header
   - header:
-      header_centered: false
+      header_centered: true
       text_one: "## Making sustainability taste good by giving people a taste of
         pollution."
     col_count: 2
