@@ -498,9 +498,6 @@ a:hover {
 .grid.three-column {
   -ms-grid-columns: 1fr 1fr 1fr;
   grid-template-columns: 1fr 1fr 1fr;
-  justify-items: flex-start;
-  text-align: left;
-  align-items: flex-start;
 }
 
 .grid.header-section {
@@ -782,7 +779,7 @@ a:hover {
 .content-text {
   display: inline-block;
   width: 100%;
-  margin-bottom: 70px;
+  margin-bottom: 30px;
   max-width: 760px;
 }
 
