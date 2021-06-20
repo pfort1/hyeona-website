@@ -51,7 +51,7 @@ sections:
         5pm to 9am. You know, when the fun stuff happens. Sliders are
         passionate… edgy… and they dance like no one’s watching."
       text_two: "![](/img/uploads/wc-logo.gif)"
-    col_count: 1
+    col_count: 2
     bg_color_check: false
     section_title: Copy
     media_gallery: []
