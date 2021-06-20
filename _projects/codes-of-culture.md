@@ -49,7 +49,7 @@ sections:
   - header:
       header_centered: false
       text_one: ""
-    col_count: 1
+    col_count: 2
     bg_color_check: false
     misc_layout: false
     section_title: Copy
