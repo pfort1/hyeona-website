@@ -24,6 +24,7 @@ sections:
       - type: video
         background: false
         vid: "327618675"
+    section_title: Intro
   - header:
       header_centered: false
     col_count: 1
@@ -35,4 +36,5 @@ sections:
       - type: video
         background: true
         vid: "564453258"
+    section_title: Gallery
 ---
