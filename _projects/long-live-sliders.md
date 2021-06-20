@@ -2,7 +2,7 @@
 layout: project
 title: Long Live Sliders
 bg_video: "565116989"
-color: "#4caae1"
+color: "#ea8a1c"
 sections:
   - header:
       header_centered: false
