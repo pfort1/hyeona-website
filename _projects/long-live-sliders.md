@@ -102,12 +102,7 @@ sections:
         img: /img/uploads/ezgif.com-optimize.gif
   - header:
       header_centered: true
-      text_one: >-
-        ## In life, there are burgers, and there are sliders. Don’t be a
-        burger. 
-
-
-        ## Long Live Sliders.
+      text_one: ""
       text_two: ""
     col_count: 1
     bg_color_check: false
@@ -118,6 +113,16 @@ sections:
       - type: image
         img: /img/uploads/60ce8ae082c9a8cf5d4c4b7a_LLS_Brand_Wild_Postings.jpg
     section_title: Featured Videos
+  - header:
+      header_centered: true
+      text_one: |-
+        ## In life, there are burgers, and there are sliders. Don’t be a burger.
+
+        ## Long Live Sliders.
+    col_count: 2
+    bg_color_check: false
+    misc_layout: false
+    section_title: Copy
   - header:
       header_centered: false
     col_count: 3
