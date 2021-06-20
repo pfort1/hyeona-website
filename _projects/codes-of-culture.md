@@ -52,10 +52,10 @@ sections:
         img: /img/uploads/60cbc5cd8884e067107758c6_att_3.jpg
     section_title: OOH
   - header:
-      header_centered: true
-      text_one: ""
-      text_two: All the content and experiences were rooted in the culture of each
+      header_centered: false
+      text_one: All the content and experiences were rooted in the culture of each
         area code and created an opportunity to celebrate the local pride.
+      text_two: ""
     col_count: 2
     bg_color_check: true
     media_gallery:
