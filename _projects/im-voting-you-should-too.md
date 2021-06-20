@@ -28,15 +28,21 @@ sections:
     section_title: Header
   - header:
       header_centered: false
+    col_count: 1
+    bg_color_check: true
+    section_title: Featured Videos
+    media_gallery:
+      - type: video
+        background: true
+        vid: "564743440"
+      - type: video
+        background: true
+        vid: "564748204"
+  - header:
+      header_centered: false
     col_count: 2
     bg_color_check: false
     media_gallery:
-      - type: video
-        vid: 564743440
-        background: true
-      - type: video
-        vid: "564748204"
-        background: true
       - type: image
         img: /img/uploads/60ccd8607a9988168dc70649_5c17508f8f6920a9f3f89486_5c105c5597d06e49ad8e0ad9_l8-p-2600.jpg
       - type: image
