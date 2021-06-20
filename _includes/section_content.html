@@ -4,7 +4,7 @@
     {% if media.type == 'image' %}
         <img src="{{media.img}}" loading="lazy" alt="">
     {% elsif media.type == 'video' %}
-        <div class="vimeo-item" style="padding-top: 56.25%;position:relative;">
+        <div class="vimeo-item{% if media.background != true %} no-autoplay{% endif %}" style="padding-top: 56.25%;position:relative;">
             <iframe src="https://player.vimeo.com/video/{{media.vid}}{% if media.background == true %}?background=true{% endif %}" width="640" height="360" frameborder="0" allow="autoplay"></iframe>
         </div>
     {% endif %}

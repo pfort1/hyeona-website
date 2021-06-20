@@ -12,7 +12,7 @@ setInterval(function () {
 }, 300);
 
 function playPauseVimeo() {
-    document.querySelectorAll('.vimeo-item').forEach(function (el, index) {
+    document.querySelectorAll('.vimeo-item:not(.no-autoplay)').forEach(function (el, index) {
         var player = new Vimeo.Player(el.querySelector('iframe'));
         if ($(el).is(':in-viewport')) {
             //console.log('playing div:'+index )
