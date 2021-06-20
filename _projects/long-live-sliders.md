@@ -71,6 +71,8 @@ sections:
       - type: image
         img: /img/uploads/60cbb5fbc8215830b1983f38_LLS_6.jpg
       - type: image
+        img: /img/uploads/share-love.gif
+      - type: image
         img: /img/uploads/cool-slider.gif
       - type: image
         img: /img/uploads/60cbb5fbeb874a7da44f34e7_LLS_5.jpg
