@@ -102,10 +102,12 @@ sections:
         img: /img/uploads/ezgif.com-optimize.gif
   - header:
       header_centered: true
-      text_one: |-
-        ## In life, there are burgers, and there are sliders.
+      text_one: >-
+        ## In life, there are burgers, and there are sliders. Don’t be a
+        burger. 
 
-        ## Don’t be a burger. Long Live Sliders.
+
+        ## Long Live Sliders.
       text_two: ""
     col_count: 1
     bg_color_check: false
