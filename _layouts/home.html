@@ -1,0 +1,13 @@
+---
+layout: default
+---
+
+<div class="w-dyn-list" id="home-collection">
+    <div role="list" class="collection-list w-dyn-items">
+        {% for item in site.projects %}
+        <div role="listitem" class="collection-item w-dyn-item">
+            {% include home-item.html %}
+        </div>
+        {% endfor %}
+    </div>
+</div>

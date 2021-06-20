@@ -1,0 +1,16 @@
+---
+layout: default
+title: Project Tempalte
+---
+
+{% include page_header.html %}
+
+{% for section in page.sections %}
+    {% include page_section.html %}
+{% endfor %}
+
+<style>
+h2, h3 {
+    color: {{page.color}};
+}
+</style>

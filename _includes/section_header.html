@@ -1,0 +1,17 @@
+{% if section.header.text_one %}
+<div class="post-content-inner grid{% if section.header.text_two %} two-column{% endif %}">
+
+    {% if section.header.text_one %}
+    <div class="content-text">
+        <div class="w-richtext">{{section.header.text_one|markdownify }}</div>
+    </div>
+    {% endif %}
+
+    {% if section.header.text_two %}
+    <div class="content-text">
+        <div class="w-richtext">{{section.header.text_two|markdownify }}</div>
+    </div>
+    {% endif %}
+
+</div>
+{% endif %}

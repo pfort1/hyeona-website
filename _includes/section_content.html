@@ -1,0 +1,12 @@
+{% assign numberofprojects = section.media_gallery|size %}
+<div class="post-content-inner grid{% if numberofprojects > 1 %}{% if section.col_count == 2 %} two-column{% elsif section.col_count == 3 %} three-column{% endif %}{% endif %}">
+    {% for media in section.media_gallery %}
+    {% if media.type == 'image' %}
+        <img src="{{media.img}}" loading="lazy" alt="">
+    {% elsif media.type == 'video' %}
+        <div class="vimeo-item" style="padding-top: 56.25%;position:relative;">
+            <iframe src="https://player.vimeo.com/video/{{media.vid}}{% if media.background == true %}?background=true{% else %}?autoplay=true&muted=true&loop=true{% endif %}" width="640" height="360" frameborder="0" allow="autoplay"></iframe>
+        </div>
+    {% endif %}
+    {% endfor %}
+</div>

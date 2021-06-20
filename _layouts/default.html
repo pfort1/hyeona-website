@@ -1,0 +1,30 @@
+---
+layout: compress
+---
+
+<!DOCTYPE html>
+<html data-current="{{ page.section }}" lang="en">
+
+{% include head.html %}
+
+<body class="{% if page.layout == 'project' %}post-page{% endif %}">
+
+    {% include nav.html %}
+
+    <div class="background-animation w-embed">
+        <canvas id="canv" width="32" height="32">
+        </canvas>
+    </div>
+
+    <main id="swup">
+
+        {{ content }}
+
+    </main>
+
+    {% include footer.html %}
+
+
+</body>
+
+</html>

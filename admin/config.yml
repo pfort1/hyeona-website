@@ -2,19 +2,76 @@ backend:
   name: git-gateway
   branch: master # Branch to update (master by default)
 
+# when using the default proxy server port
+local_backend: true
+
 media_folder: "img/uploads" # Folder where user uploaded files should go
 
-collections: # A list of collections the CMS should be able to edit
-  - name: "post" # Used in routes, ie.: /admin/collections/:slug/edit
-    label: "Post" # Used in the UI, ie.: "New Post"
-    folder: "_posts" # The path to the folder where the documents are stored
-    sort: "date:desc" # Default is title:asc
-    create: true # Allow users to create new documents in this collection
-    slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
-    fields: # The fields each document in this collection have
-      - {label: "Layout", name: "layout", widget: "hidden", default: "post"}
-      - {label: "Title", name: "title", widget: "string", tagname: "h1"}
-      - {label: "Body", name: "body", widget: "markdown"}
-      - {label: "Categories", name: "categories", widget: "string", required: false}
-    meta: # Meta data fields. Just like fields, but without any preview element
-      - {label: "Publish Date", name: "date", widget: "datetime", format: "YYYY-MM-DD hh:mm:ss"}
+collections:
+  - label: "settings"
+    name: "settings"
+    files:
+      - label: "Order"
+        name: "order"
+        file: "_settings/order.md"
+        fields:
+          - label: Featured Posts
+            name: featured
+            widget: ncw-reorder
+            collection: projects
+            id_field: id
+            display_template: '{{title}}'
+  - label: "Projects"
+    name: "projects"
+    folder: "_projects"
+    create: true
+    fields:
+      - {label: "Layout", name: "layout", default: "project", widget: "hidden"}
+      - {label: "Title", name: "title", widget: "string"}
+      - {label: "Background Video", name: "bg_video", widget: "string", required: false}
+      - { label: 'Color', name: 'color', widget: 'color', enableAlpha: true, allowInput: true }
+      - label: "Sections"
+        name: "sections"
+        widget: "list"
+        summary: "Section {{section_title}}"
+        fields:
+          - {label: "Section Title", name: "section_title", widget: "string", required: false}
+          - label: 'Header'
+            name: 'header'
+            widget: object
+            collapsed: true
+            summary: '{{fields.text_one}}'
+            fields:
+              - {label: "One", name: "text_one", minimal: true, widget: "markdown", required: false}
+              - {label: "Two", name: "text_two", minimal: true, widget: "markdown", required: false}
+              - {label: "Centererd", name: "header_centered", minimal: true, widget: "boolean", default: false, required: false}
+          - label: "Media Gallery"
+            name: "media_gallery"
+            widget: "list"
+            add_to_top: true
+            minimize_collapsed: true
+            summary: '{{fields.quote}} - {{fields.author.name}}'
+            types:
+              - label: 'Image'
+                name: 'image'
+                widget: object
+                summary: '{{fields.img}}'
+                field: {label: "Image", name: "img", widget: "image", required: false}
+              - label: 'Video'
+                name: 'video'
+                widget: object
+                summary: '{{fields.vid}}'
+                fields: 
+                  - {label: "Video", name: "vid", widget: "string", required: false}
+                  - {label: "Background", name: "background", widget: "boolean", default: false, required: false}
+          - label: "Column count"
+            name: "col_count"
+            widget: "number"
+            default: 2
+            value_type: "int"
+            min: 1
+            max: 3
+            step: 1
+          - {label: "Backgrond Color", name: "bg_color_check", widget: "boolean", default: false}
+
+
