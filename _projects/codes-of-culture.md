@@ -2,7 +2,7 @@
 layout: project
 title: Codes of Culture
 bg_video: "564035487"
-color: "#4caae1"
+color: "#45b5f7"
 sections:
   - header:
       header_centered: false
