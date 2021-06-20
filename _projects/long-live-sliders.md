@@ -101,15 +101,15 @@ sections:
       header_centered: false
     col_count: 3
     bg_color_check: true
-    section_title: Social Videos
+    section_title: social grid
     media_gallery:
       - type: video
-        background: true
+        background: false
         vid: "565124826"
       - type: video
-        background: true
+        background: false
         vid: "565124454"
       - type: video
-        background: true
+        background: false
         vid: "565124442"
 ---
