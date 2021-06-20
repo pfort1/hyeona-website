@@ -9,6 +9,11 @@ sections:
     media_gallery:
       - type: image
         img: /img/uploads/60cc237849304b503be7124e_5cc10904b926f95e348eded0_3.jpg
+      - type: image
+        img: /img/uploads/sticker.gif
+      - type: video
+        background: true
+        vid: "564748204"
     header:
       text_one: It's been proven over time that the "I Voted" stickers play a key role
         in influencing people to go vote on the day of election day. Could we
@@ -26,17 +31,6 @@ sections:
 
         Guerilla / Social Activation in collaboration with Yumin Hwang and [Hui Wen Ong](https://huiwenong.com/)
     section_title: Header
-  - header:
-      header_centered: false
-    col_count: 1
-    bg_color_check: true
-    section_title: Featured Videos
-    media_gallery:
-      - type: image
-        img: /img/uploads/sticker.gif
-      - type: video
-        background: true
-        vid: "564748204"
   - header:
       header_centered: false
     col_count: 2
@@ -81,7 +75,26 @@ sections:
         img: /img/uploads/60cce1261746e1fc311acae1_voting_UGC__Layer Comp 10.jpg
     col_count: 3
     bg_color_check: false
-    section_title: Social
+    section_title: social grid
+  - header:
+      header_centered: false
+    col_count: 2
+    bg_color_check: false
+    misc_layout: false
+    section_title: social grid
+    media_gallery:
+      - type: image
+        img: /img/uploads/voting_ugc__0005_img_4617.jpg
+      - type: image
+        img: /img/uploads/voting_ugc__0004_img_8752.jpg
+      - type: image
+        img: /img/uploads/voting_ugc__0003_img_8857.jpg
+      - type: image
+        img: /img/uploads/voting_ugc__0002_img_9264.jpg
+      - type: image
+        img: /img/uploads/voting_ugc__0001_img_9285.jpg
+      - type: image
+        img: /img/uploads/voting_ugc__0000_img_9287.jpg
   - header:
       header_centered: true
       text_one: We created custom geo-filters for popular locations throughout NYC,
@@ -91,7 +104,7 @@ sections:
     media_gallery:
       - type: image
         img: /img/uploads/60cd2af57d6b22f95100094c_voting-snapchat.png
-    section_title: Social Grid
+    section_title: Snapchat
   - header:
       header_centered: false
       text_one: We even created shareable memes and GIFs on Giphy.
@@ -116,5 +129,5 @@ sections:
         img: /img/uploads/60cd2b5a102e0b3a0f461496_c1dda2_a6dadf62449e4ad98365ecba146d7632~mv2.gif
     col_count: 3
     bg_color_check: true
-    section_title: Social Gifs
+    section_title: Social grid
 ---
