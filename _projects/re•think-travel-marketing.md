@@ -44,7 +44,26 @@ sections:
     section_title: Website
   - header:
       header_centered: false
-    col_count: 2
-    bg_color_check: false
-    section_title: ""
+    col_count: 3
+    bg_color_check: true
+    section_title: social-grid
+    media_gallery:
+      - type: image
+        img: /img/uploads/social_3.jpg
+      - type: image
+        img: /img/uploads/social_2.jpeg
+      - type: image
+        img: /img/uploads/social_1.jpeg
+      - type: image
+        img: /img/uploads/social_9.jpg
+      - type: image
+        img: /img/uploads/social_8.jpg
+      - type: image
+        img: /img/uploads/social_7.jpeg
+      - type: image
+        img: /img/uploads/social_4.jpeg
+      - type: image
+        img: /img/uploads/social_5.jpg
+      - type: image
+        img: /img/uploads/social_6.jpg
 ---
