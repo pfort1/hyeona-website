@@ -9,11 +9,6 @@ sections:
     media_gallery:
       - type: image
         img: /img/uploads/60cc237849304b503be7124e_5cc10904b926f95e348eded0_3.jpg
-      - type: image
-        img: /img/uploads/sticker.gif
-      - type: video
-        background: true
-        vid: "564748204"
     header:
       text_one: It's been proven over time that the "I Voted" stickers play a key role
         in influencing people to go vote on the day of election day. Could we
@@ -31,6 +26,18 @@ sections:
 
         Guerilla / Social Activation in collaboration with Yumin Hwang and [Hui Wen Ong](https://huiwenong.com/)
     section_title: Header
+  - header:
+      header_centered: false
+    col_count: 2
+    bg_color_check: true
+    misc_layout: false
+    section_title: Featured videos
+    media_gallery:
+      - type: image
+        img: /img/uploads/sticker.gif
+      - type: video
+        background: true
+        vid: "564748204"
   - header:
       header_centered: false
     col_count: 2
