@@ -46,7 +46,7 @@ sections:
         vid: "564002698"
     section_title: Featured Videos
   - header:
-      header_centered: true
+      header_centered: false
       text_one: "### Because if burgers are 9 to 5, sliders are 5 to 9. And we mean
         5pm to 9am. You know, when the fun stuff happens. Sliders are
         passionate… edgy… and they dance like no one’s watching."
@@ -75,8 +75,6 @@ sections:
         img: /img/uploads/cool-slider.gif
       - type: image
         img: /img/uploads/60cbb5fbeb874a7da44f34e7_LLS_5.jpg
-      - type: image
-        img: /img/uploads/slider-chain.gif
       - type: image
         img: /img/uploads/slider-dm.gif
       - type: image
