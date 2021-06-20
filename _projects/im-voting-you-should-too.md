@@ -32,9 +32,8 @@ sections:
     bg_color_check: true
     section_title: Featured Videos
     media_gallery:
-      - type: video
-        background: true
-        vid: "564743440"
+      - type: image
+        img: /img/uploads/sticker.gif
       - type: video
         background: true
         vid: "564748204"
