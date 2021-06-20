@@ -50,23 +50,17 @@ sections:
       text_one: "### Because if burgers are 9 to 5, sliders are 5 to 9. And we mean
         5pm to 9am. You know, when the fun stuff happens. Sliders are
         passionate… edgy… and they dance like no one’s watching."
-    col_count: 2
+    col_count: 1
     bg_color_check: false
     section_title: Copy
-  - header:
-      header_centered: false
-      text_one: This new brand campaign launch was a complete re-design of the brand
-        visual identity – branding, photography direction, social media look &
-        feel, etc.
-    col_count: 1
-    bg_color_check: true
-    section_title: Images
     media_gallery:
       - type: image
         img: /img/uploads/wc-logo.gif
   - header:
-      header_centered: false
-      text_one: ""
+      header_centered: true
+      text_one: This new brand campaign launch was a complete re-design of the brand
+        visual identity – branding, photography direction, social media look &
+        feel, etc.
     col_count: 2
     bg_color_check: true
     media_gallery:
@@ -75,13 +69,13 @@ sections:
       - type: image
         img: /img/uploads/60cbb5fb4d1e5648e10b7508_LLS_1.jpg
       - type: image
-        img: /img/uploads/cool-slider.gif
-      - type: image
         img: /img/uploads/60cbb5fbc8215830b1983f38_LLS_6.jpg
       - type: image
-        img: /img/uploads/slider-chain.gif
+        img: /img/uploads/cool-slider.gif
       - type: image
         img: /img/uploads/60cbb5fbeb874a7da44f34e7_LLS_5.jpg
+      - type: image
+        img: /img/uploads/slider-chain.gif
       - type: image
         img: /img/uploads/slider-dm.gif
       - type: image
