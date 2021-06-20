@@ -42,17 +42,25 @@ sections:
       - type: image
         img: /img/uploads/60cbc5e2028f9e9bdf21833b_att_5.jpg
       - type: image
-        img: /img/uploads/60cbc5cc518ddfb16e21169a_212_hydrant.jpg
+        img: /img/uploads/att_3.jpg
       - type: image
         img: /img/uploads/60cbc5cc86e6d57b79145f48_att_2.jpg
+    section_title: OOH
+  - header:
+      header_centered: false
+      text_one: ""
+    col_count: 1
+    bg_color_check: false
+    misc_layout: false
+    section_title: Copy
+    media_gallery:
       - type: image
-        img: /img/uploads/60cbc5cd8884e067107758c6_att_3.jpg
+        img: /img/uploads/60cbc5cc518ddfb16e21169a_212_hydrant.jpg
       - type: text
         txt: "### The 3 digits that hold us all together, that show us where our home
           is, where our roots are, what we stand for. The 3 digits only we can
           understand, it’s the code of our thing, the code of our youth, the
           code of our generation."
-    section_title: OOH
   - header:
       header_centered: true
       text_one: All the content and experiences were rooted in the culture of each
