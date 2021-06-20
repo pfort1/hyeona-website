@@ -125,5 +125,5 @@ sections:
         img: /img/uploads/60cbc105eb874ac5bf4f6539_Social_1.jpg
       - type: image
         img: /img/uploads/60cbc105f36cd1031ab458e8_Social_3.jpg
-    section_title: Social-grid
+    section_title: social-grid
 ---
