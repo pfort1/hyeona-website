@@ -46,16 +46,15 @@ sections:
         vid: "564002698"
     section_title: Featured Videos
   - header:
-      header_centered: true
+      header_centered: false
       text_one: "### Because if burgers are 9 to 5, sliders are 5 to 9. And we mean
         5pm to 9am. You know, when the fun stuff happens. Sliders are
         passionate… edgy… and they dance like no one’s watching."
+      text_two: "![](/img/uploads/wc-logo.gif)"
     col_count: 1
     bg_color_check: false
     section_title: Copy
-    media_gallery:
-      - type: image
-        img: /img/uploads/wc-logo.gif
+    media_gallery: []
   - header:
       header_centered: true
       text_one: This new brand campaign launch was a complete re-design of the brand
@@ -88,6 +87,7 @@ sections:
       text_one: |-
         ### In life, there are burgers, and there are sliders.\
         Don’t be a burger. Long Live Sliders.
+      text_two: ""
     col_count: 1
     bg_color_check: false
     media_gallery:
