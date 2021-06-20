@@ -24,7 +24,7 @@ sections:
         ‍
 
 
-        Guerilla / Social Activation in collaboration with Yumin Hwang and[ Hui Wen Ong](https://huiwenong.com/)
+        Guerilla / Social Activation in collaboration with Yumin Hwang and [Hui Wen Ong](https://huiwenong.com/)
     section_title: Header
   - header:
       header_centered: false
@@ -35,7 +35,8 @@ sections:
         vid: 564743440
         background: true
       - type: video
-        vid: "386277526"
+        vid: "564748204"
+        background: true
       - type: image
         img: /img/uploads/60ccd8607a9988168dc70649_5c17508f8f6920a9f3f89486_5c105c5597d06e49ad8e0ad9_l8-p-2600.jpg
       - type: image
