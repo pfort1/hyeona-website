@@ -10,7 +10,7 @@ layout: compress
 <body class="{% if page.layout == 'project' %}post-page{% endif %}">
 
     {% include nav.html %}
-    {% if page.layout == 'home' %}
+    {% if page.layout == 'home' or page.layout == 'about' %}
     <div class="background-animation w-embed">
         <canvas id="canv" width="32" height="32">
         </canvas>

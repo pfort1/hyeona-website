@@ -4,12 +4,12 @@
 {% if section.header.text_one and characterCountOne != 0 %}
 <div class="post-content-inner grid{% if section.header.text_two and characterCountTwo != 0 %} two-column{% endif %}{% if forloop.first %} header-section{% endif %}">
     {% if section.header.text_one %}
-    <div class="content-text">
+    <div class="content-text" data-aos="fade">
         <div class="w-richtext">{{section.header.text_one|markdownify }}</div>
     </div>
     {% endif %}
     {% if section.header.text_two and characterCountTwo != 0 %}
-    <div class="content-text">
+    <div class="content-text" data-aos="fade">
         <div class="w-richtext">{{section.header.text_two|markdownify }}</div>
     </div>
     {% endif %}

@@ -56,3 +56,8 @@ $(document).ready(function () {
         run();
     }
 })
+
+    AOS.init({
+        duration: 1000,
+        mirror: false
+    });
