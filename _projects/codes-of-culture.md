@@ -31,10 +31,12 @@ sections:
     section_title: Intro
   - header:
       header_centered: false
-      text_one: All the content and experiences were rooted in the culture of each
-        area code and created an opportunity to celebrate the local pride.
-        Out-of-home spaces became canvases to showcase different cultures, local
-        spots and hometown heroes.
+      text_one: Posters and out-of-home spaces became canvases to showcase different
+        cultures, local spots and hometown heroes.
+      text_two: "## The 3 digits that hold us all together, that show us where our
+        home is, where our roots are, what we stand for. The 3 digits only we
+        can understand, it’s the code of our thing, the code of our youth, the
+        code of our generation."
     col_count: 2
     bg_color_check: false
     media_gallery:
@@ -51,10 +53,9 @@ sections:
     section_title: OOH
   - header:
       header_centered: true
-      text_one: "### The 3 digits that hold us all together, that show us where our
-        home is, where our roots are, what we stand for. The 3 digits only we
-        can understand, it’s the code of our thing, the code of our youth, the
-        code of our generation."
+      text_one: ""
+      text_two: All the content and experiences were rooted in the culture of each
+        area code and created an opportunity to celebrate the local pride.
     col_count: 2
     bg_color_check: true
     media_gallery:
