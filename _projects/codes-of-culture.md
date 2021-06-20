@@ -108,7 +108,8 @@ sections:
         background: true
         vid: "564033892"
   - header:
-      header_centered: false
+      header_centered: true
+      text_one: Here are a few examples of the UGC content.
     col_count: 3
     bg_color_check: true
     media_gallery:
@@ -124,5 +125,5 @@ sections:
         img: /img/uploads/60cbc105eb874ac5bf4f6539_Social_1.jpg
       - type: image
         img: /img/uploads/60cbc105f36cd1031ab458e8_Social_3.jpg
-    section_title: Here are a few examples of the UGC content.
+    section_title: UGC
 ---
