@@ -85,8 +85,9 @@ sections:
     section_title: Images Two Column
   - header:
       header_centered: true
-      text_one: "### In life, there are burgers, and there are sliders. Don’t be a
-        burger. Long Live Sliders."
+      text_one: |-
+        ### In life, there are burgers, and there are sliders.\
+        Don’t be a burger. Long Live Sliders.
     col_count: 1
     bg_color_check: false
     media_gallery:
