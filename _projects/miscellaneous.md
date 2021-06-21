@@ -57,7 +57,7 @@ sections:
     section_title: "What slider r u filter "
     media_gallery:
       - type: video
-        background: false
+        background: true
         vid: "565144041"
       - type: image
         img: /img/uploads/filter_2.jpg
@@ -97,10 +97,10 @@ sections:
   - header:
       header_centered: false
       text_one: A series of videos for White Castle x UberEats Delivery posts.
-    col_count: 2
+    col_count: 1
     bg_color_check: true
     misc_layout: true
-    section_title: Uber Eats
+    section_title: Uber Eats social grid
     media_gallery:
       - type: video
         background: true
@@ -123,7 +123,7 @@ sections:
   - header:
       header_centered: false
       text_one: These are some one-off social posts I created for White Castle.
-    col_count: 2
+    col_count: 1
     bg_color_check: true
     misc_layout: true
     section_title: WC social grid
