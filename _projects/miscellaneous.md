@@ -6,7 +6,7 @@ misc_layout: true
 color: "#FFCB11"
 sections:
   - header:
-      header_centered: false
+      header_centered: true
       text_one: >-
         ### Here’s a collection of miscellaneous works.
 
