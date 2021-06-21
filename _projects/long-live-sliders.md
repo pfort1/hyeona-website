@@ -119,9 +119,9 @@ sections:
   - header:
       header_centered: true
       text_one: |-
-        ## In life, there are burgers, and there are sliders. Don’t be a burger.
+        ## In life, there are burgers, and there are sliders.
 
-        ## Long Live Sliders.
+        ## Don’t be a burger. Long Live Sliders.
     col_count: 2
     bg_color_check: false
     misc_layout: false
