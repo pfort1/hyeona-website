@@ -27,6 +27,17 @@ sections:
         background: false
         vid: "448732059"
   - header:
+      header_centered: true
+      text_one: We created a system with variable logotypes, using "re•" as a motif.
+    col_count: 2
+    bg_color_check: false
+    section_title: Comps
+    media_gallery:
+      - type: image
+        img: /img/uploads/rethink-logos.jpg
+      - type: image
+        img: /img/uploads/rethink-business-cards.jpg
+  - header:
       header_centered: false
     col_count: 1
     bg_color_check: false
@@ -36,16 +47,6 @@ sections:
       - type: video
         background: true
         vid: "563989505"
-  - header:
-      header_centered: false
-    col_count: 2
-    bg_color_check: false
-    section_title: Comps
-    media_gallery:
-      - type: image
-        img: /img/uploads/rethink-logos.jpg
-      - type: image
-        img: /img/uploads/rethink-business-cards.jpg
   - header:
       header_centered: true
       text_one: Here are some page designs. See [full website
@@ -75,7 +76,9 @@ sections:
       - type: image
         img: /img/uploads/rethink-image_4.jpg
   - header:
-      header_centered: false
+      header_centered: true
+      text_one: These are some of the social content that we created for the brand
+        launch.
     col_count: 3
     bg_color_check: true
     section_title: social-grid
