@@ -14,8 +14,7 @@ sections:
     media_gallery:
       - type: text
         txt: "### Here’s a collection of miscellaneous stuff – a mixture of one-off
-          commissioned pieces, personal work, social posts, videos,
-          illustrations, etc. ㋡ *･❋ﾟ✧"
+          pieces, personal work, social posts, videos, illustrations, and more."
   - header:
       header_centered: false
       text_one: '"Bougie on a Budget" is a series of stills for 99c Only Stores, shot
