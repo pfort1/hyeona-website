@@ -40,10 +40,7 @@ sections:
         ball and shot spinner.
 
 
-        Client: Adnams (UK)\
-
-        AD STARS 2019 Gold Winner
-
+        AD STARS 2019 Gold Winner\
 
         In collaboration with [Yemoon Cho](https://www.yemooncho.com/)
       text_two: ""
