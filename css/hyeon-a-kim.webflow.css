@@ -736,6 +736,7 @@ a:hover {
   background-color: #fff;
 }
 
+
 .social-grid iframe {
   min-height: 380px;
 }
@@ -750,6 +751,7 @@ a:hover {
   margin-right: auto;
   margin-left: auto;
 }
+
 
 .post-content .post-content-inner:nth-child(2), {
   row-gap: 100px;

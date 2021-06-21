@@ -3,13 +3,13 @@ layout: project
 title: Miscellaneous
 bg_video: "564782291"
 color: "#FFEE54"
+misc_layout: true
 sections:
   - header:
       header_centered: false
       text_one: These are some illustrated social posts for White Castle
     col_count: 2
     bg_color_check: true
-    misc_layout: true
     section_title: Illustrated WC
     media_gallery:
       - type: image
@@ -23,7 +23,6 @@ sections:
         bougie, even when on a budget.'
     col_count: 2
     bg_color_check: true
-    misc_layout: true
     section_title: Bougie
     media_gallery:
       - type: image
@@ -35,7 +34,6 @@ sections:
       text_one: A series of videos for White Castle x UberEats Delivery posts.
     col_count: 2
     bg_color_check: true
-    misc_layout: true
     section_title: Uber Eats
     media_gallery:
       - type: video
