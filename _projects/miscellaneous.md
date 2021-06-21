@@ -97,10 +97,10 @@ sections:
   - header:
       header_centered: false
       text_one: A series of videos for White Castle x UberEats Delivery posts.
-    col_count: 2
+    col_count: 1
     bg_color_check: true
     misc_layout: true
-    section_title: Uber Eats
+    section_title: Uber Eats social grid
     media_gallery:
       - type: video
         background: true
