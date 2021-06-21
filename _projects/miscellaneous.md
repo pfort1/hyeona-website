@@ -32,8 +32,8 @@ sections:
         img: /img/uploads/bougie_2.jpg
   - header:
       header_centered: false
-      text_one: A series of self-shot images for White Castle. I also did the nail art
-        for these 💅💅
+      text_one: A series of self-shot images for White Castle, which was a self DIY
+        shoot at home during the lockdown. Nail art by me 💅💅
     col_count: 2
     bg_color_check: true
     misc_layout: true
