@@ -3,7 +3,8 @@ layout: about
 title: About
 permalink: /about
 info: |-
-  Hyeona Kim\
+  ### Hyeona Kim
+
   /he-on-ah/
 
   Art director & cat mom extraordinaire, currently based in Brooklyn. *･❋ﾟ✧ ㋡ \
