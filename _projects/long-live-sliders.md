@@ -34,9 +34,8 @@ sections:
   - header:
       header_centered: false
     col_count: 2
-    bg_color_check: true
+    bg_color_check: false
     misc_layout: false
-    section_title: Featured Videos
     media_gallery:
       - type: video
         background: true
@@ -44,12 +43,6 @@ sections:
       - type: video
         background: true
         vid: "564002698"
-  - header:
-      header_centered: false
-    col_count: 2
-    bg_color_check: false
-    misc_layout: false
-    media_gallery:
       - type: text
         txt: >-
           ### If burgers are 9 to 5, sliders are 5 to 9. And we mean 5pm to 9am.
