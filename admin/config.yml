@@ -73,7 +73,7 @@ collections:
     files:
     - name: collectionOrder
       label: Collection Order
-      file: _data/collectionOrder.md
+      file: _data/collectionOrder.yml
       fields:
         - label: Collection
           name: collection
