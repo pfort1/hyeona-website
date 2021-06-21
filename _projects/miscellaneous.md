@@ -2,6 +2,7 @@
 layout: project
 title: Miscellaneous
 bg_video: "564782291"
+misc_layout: true
 color: "#FFCB11"
 sections:
   - header:
@@ -31,25 +32,6 @@ sections:
         img: /img/uploads/bougie_2.jpg
   - header:
       header_centered: false
-      text_one: >-
-        Adnams, a sustainable beer brewery, uses cans that are made with
-        recycled materials. These cans are easily transformable into different
-        objects. The Party Pack allows cans to be made into party essentials,
-        like a speaker, phone holder and even game pieces.
-
-
-        AD STARS 2019 Gold Winner
-      text_two: ""
-    col_count: 1
-    bg_color_check: true
-    misc_layout: true
-    section_title: Adnams Party Pack
-    media_gallery:
-      - type: video
-        background: false
-        vid: "327618675"
-  - header:
-      header_centered: false
       text_one: A series of self-shot images for White Castle, which was a self DIY
         shoot at home during the lockdown. Nail art by me 💅💅
     col_count: 2
@@ -67,18 +49,23 @@ sections:
         img: /img/uploads/wc_21_lls_nails__0000_wc_21_lls_lifestyle_nails-41.jpg
   - header:
       header_centered: false
-      text_one: "Inspired by the viral [Tide Pod
-        Challenge](https://en.wikipedia.org/wiki/Consumption_of_Tide_Pods) in
-        2018, we went out to the Women’s Day March to get crowds to clean the
-        *real* potty mouths instead. #Pods4Rights (ﾉ◕ヮ◕)ﾉ*✲｡⋆"
+      text_one: >-
+        Adnams, a sustainable beer brewery, uses cans that are made with
+        recycled materials. These cans are easily transformable into different
+        objects. The Party Pack allows cans to be made into party essentials,
+        like a speaker, phone holder and even game pieces.
+
+
+        AD STARS 2019 Gold Winner
+      text_two: ""
     col_count: 1
     bg_color_check: true
     misc_layout: true
-    section_title: Pods 4 Rights
+    section_title: Adnams Party Pack
     media_gallery:
       - type: video
         background: false
-        vid: "564809182"
+        vid: "327618675"
   - header:
       header_centered: false
       text_one: I created an Instagram selfie filter for White Castle, which lets you
@@ -121,17 +108,18 @@ sections:
         vid: "564782957"
   - header:
       header_centered: false
-      text_one: A [viral
-        tweet](https://twitter.com/WhiteCastle/status/1236032881291677696) for
-        White Castle, in response to a new album drop by Lil Uzi Vert, who also
-        happens to be a long time White Castle fan.
+      text_one: "Inspired by the viral [Tide Pod
+        Challenge](https://en.wikipedia.org/wiki/Consumption_of_Tide_Pods) in
+        2018, we went out to the Women’s Day March to get crowds to clean the
+        *real* potty mouths instead. #Pods4Rights (ﾉ◕ヮ◕)ﾉ*✲｡⋆"
     col_count: 1
     bg_color_check: true
     misc_layout: true
-    section_title: Lil Uzi Vert social grid
+    section_title: Pods 4 Rights
     media_gallery:
-      - type: image
-        img: /img/uploads/lil-uzi-tweet.jpg
+      - type: video
+        background: false
+        vid: "564809182"
   - header:
       header_centered: false
       text_one: Remember when Tr*mp was president in 2016 and that was the scariest
@@ -150,4 +138,17 @@ sections:
         img: /img/uploads/img_28792.jpg
       - type: image
         img: /img/uploads/img_7952.jpg
+  - header:
+      header_centered: false
+      text_one: A [viral
+        tweet](https://twitter.com/WhiteCastle/status/1236032881291677696) for
+        White Castle, in response to a new album drop by Lil Uzi Vert, who also
+        happens to be a long time White Castle fan.
+    col_count: 1
+    bg_color_check: true
+    misc_layout: true
+    section_title: Lil Uzi Vert social grid
+    media_gallery:
+      - type: image
+        img: /img/uploads/lil-uzi-tweet.jpg
 ---
