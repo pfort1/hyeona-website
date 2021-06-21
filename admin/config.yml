@@ -71,6 +71,20 @@ collections:
   - name: settings
     label: Settings
     files:
+    - name: about_page
+      label: About Page
+      file: about.md
+      fields:
+        - {label: "Layout", name: "layout", default: "about", widget: "hidden"}
+        - {label: "info", name: "info", minimal: true, widget: "markdown", required: false}
+        - {label: "Image", name: "img", widget: "image", required: false}
+        - label: "Resume"
+          name: "resume"
+          widget: "file"
+          required: false
+          media_library:
+            config:
+              multiple: true
     - name: collectionOrder
       label: Collection Order
       file: _data/collectionOrder.yml
