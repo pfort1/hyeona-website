@@ -7,7 +7,10 @@ info: |-
 
   /he-on-ah/
 
-  Art director & cat mom extraordinaire, currently based in Brooklyn. *･❋ﾟ✧ ㋡ \
+
+
+  Art director & cat mom extraordinaire, currently based in Brooklyn. *･❋ﾟ✧ ㋡ 
+
   Drop in a line at hi@hyeonakim.com to chat!
 img: /img/uploads/hyeona_2.jpg
 resume: /img/uploads/hyeona-resume-2021.pdf
