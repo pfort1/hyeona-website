@@ -23,9 +23,9 @@ sections:
       text_one: I created an Instagram selfie filter for White Castle, which lets you
         see what type of slider you are.
     col_count: 1
-    bg_color_check: false
+    bg_color_check: true
     misc_layout: true
-    section_title: What slider r u filter
+    section_title: "What slider r u filter "
     media_gallery:
       - type: video
         background: false
@@ -36,7 +36,7 @@ sections:
         thing IRL? On Halloween 2016, we created the scariest greeting cards for
         our fellow New Yorkers.
     col_count: 2
-    bg_color_check: false
+    bg_color_check: true
     misc_layout: true
     section_title: Trump or Treat
     media_gallery:
@@ -54,10 +54,10 @@ sections:
         tweet](https://twitter.com/WhiteCastle/status/1236032881291677696) for
         White Castle, in response to a new album drop by Lil Uzi Vert, who also
         happens to be a long time White Castle fan.
-    col_count: 2
-    bg_color_check: false
-    misc_layout: false
-    section_title: Lil Uzi Vert
+    col_count: 1
+    bg_color_check: true
+    misc_layout: true
+    section_title: Lil Uzi Vert social grid
     media_gallery:
       - type: image
         img: /img/uploads/lil-uzi-tweet.jpg
@@ -80,7 +80,7 @@ sections:
       text_one: The perfect mix of some Disney magic and sparkles all in one short
         online commercial for Disney Drinks.
     col_count: 1
-    bg_color_check: false
+    bg_color_check: true
     misc_layout: true
     section_title: Disney Drinks
     media_gallery:
