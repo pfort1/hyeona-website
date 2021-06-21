@@ -7,4 +7,5 @@ collection:
   - collectionName: I'm Voting (You Should Too)
   - collectionName: Taste the Pollution
   - collectionName: Adnams Party Pack
+  - collectionName: Miscellaneous
 ---
