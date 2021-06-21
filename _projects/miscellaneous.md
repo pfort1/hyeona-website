@@ -112,7 +112,7 @@ sections:
     col_count: 2
     bg_color_check: true
     misc_layout: true
-    section_title: WC social grid
+    section_title: WC
     media_gallery:
       - type: image
         img: /img/uploads/summer_card_v2.jpg
