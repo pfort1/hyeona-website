@@ -2,7 +2,7 @@
 layout: project
 title: Miscellaneous
 bg_video: "564782291"
-color: "#FFEE54"
+color: "#FFCB11"
 sections:
   - header:
       header_centered: false
