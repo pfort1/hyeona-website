@@ -68,6 +68,20 @@ sections:
         img: /img/uploads/wc_21_lls_nails__0000_wc_21_lls_lifestyle_nails-41.jpg
   - header:
       header_centered: false
+      text_one: "Inspired by the viral [Tide Pod
+        Challenge](https://en.wikipedia.org/wiki/Consumption_of_Tide_Pods) in
+        2018, we went out to the Women’s Day March to get crowds to clean the
+        *real* potty mouths instead. #Pods4Rights (ﾉ◕ヮ◕)ﾉ*✲｡⋆"
+    col_count: 1
+    bg_color_check: true
+    misc_layout: true
+    section_title: Pods 4 Rights
+    media_gallery:
+      - type: video
+        background: false
+        vid: "564809182"
+  - header:
+      header_centered: false
       text_one: I created an Instagram selfie filter for White Castle, which lets you
         see what type of slider you are.
     col_count: 3
@@ -75,31 +89,13 @@ sections:
     misc_layout: true
     section_title: "What slider r u filter "
     media_gallery:
+      - type: image
+        img: /img/uploads/filter_2.jpg
       - type: video
         background: true
         vid: "565144041"
       - type: image
-        img: /img/uploads/filter_2.jpg
-      - type: image
         img: /img/uploads/filter_1.jpg
-  - header:
-      header_centered: false
-      text_one: Remember when Tr*mp was president in 2016 and that was the scariest
-        thing IRL? On Halloween 2016, we created the scariest greeting cards for
-        our fellow New Yorkers.
-    col_count: 2
-    bg_color_check: true
-    misc_layout: true
-    section_title: Trump or Treat
-    media_gallery:
-      - type: image
-        img: /img/uploads/trump-cards.png
-      - type: image
-        img: /img/uploads/trump-or-treat.gif
-      - type: image
-        img: /img/uploads/img_28792.jpg
-      - type: image
-        img: /img/uploads/img_7952.jpg
   - header:
       header_centered: false
       text_one: These are some one-off social posts I created for White Castle.
@@ -139,14 +135,20 @@ sections:
         img: /img/uploads/lil-uzi-tweet.jpg
   - header:
       header_centered: false
-      text_one: The perfect mix of some Disney magic and sparkles all in one short
-        online commercial for Disney Drinks.
-    col_count: 1
+      text_one: Remember when Tr*mp was president in 2016 and that was the scariest
+        thing IRL? On Halloween 2016, we created the scariest greeting cards for
+        our fellow New Yorkers.
+    col_count: 2
     bg_color_check: true
     misc_layout: true
-    section_title: Disney Drinks
+    section_title: Trump or Treat
     media_gallery:
-      - type: video
-        background: false
-        vid: "449002892"
+      - type: image
+        img: /img/uploads/trump-cards.png
+      - type: image
+        img: /img/uploads/trump-or-treat.gif
+      - type: image
+        img: /img/uploads/img_28792.jpg
+      - type: image
+        img: /img/uploads/img_7952.jpg
 ---
