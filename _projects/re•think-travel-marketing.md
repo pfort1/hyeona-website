@@ -57,7 +57,7 @@ sections:
     media_gallery:
       - type: video
         background: true
-        vid: "563989454"
+        vid: "565422636"
       - type: image
         img: /img/uploads/rethink-who-we-are.jpg
   - header:
