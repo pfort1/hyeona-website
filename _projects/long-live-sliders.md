@@ -33,8 +33,7 @@ sections:
     section_title: Intro
   - header:
       header_centered: true
-      text_one: We created vignettes around “Sliders” doing things authentically their
-        way by being unafraid, unconventional, and unapologetic.
+      text_one: ""
     col_count: 2
     bg_color_check: false
     media_gallery:
@@ -45,6 +44,40 @@ sections:
         background: true
         vid: "564002698"
     section_title: Featured Videos
+  - header:
+      header_centered: true
+      text_one: We created vignettes around “Sliders” doing things authentically their
+        way by being unafraid, unconventional, and unapologetic.
+    col_count: 3
+    bg_color_check: false
+    section_title: videos 6s
+    media_gallery:
+      - type: video
+        background: false
+        vid: "565124826"
+      - type: video
+        background: false
+        vid: "565124454"
+      - type: video
+        background: false
+        vid: "565124442"
+  - header:
+      header_centered: true
+      text_one: The new brand campaign launch included a complete re-design of the
+        brand visual identity – branding, photography direction, social media
+        look & feel, etc.
+    col_count: 2
+    bg_color_check: true
+    media_gallery:
+      - type: image
+        img: /img/uploads/60cbb5fb4d1e5648e10b7508_LLS_1.jpg
+      - type: image
+        img: /img/uploads/60cbb5fbc8215830b1983f38_LLS_6.jpg
+      - type: image
+        img: /img/uploads/60cbb5fbeb874a7da44f34e7_LLS_5.jpg
+      - type: image
+        img: /img/uploads/60cbb5fb86e6d5e617141465_LLS_2.jpg
+    section_title: Images Two Column
   - header:
       header_centered: false
     col_count: 2
@@ -61,23 +94,6 @@ sections:
       - type: image
         img: /img/uploads/wc-logo.gif
     section_title: Copy
-  - header:
-      header_centered: true
-      text_one: This new brand campaign launch was a complete re-design of the brand
-        visual identity – branding, photography direction, social media look &
-        feel, etc.
-    col_count: 2
-    bg_color_check: true
-    media_gallery:
-      - type: image
-        img: /img/uploads/60cbb5fb4d1e5648e10b7508_LLS_1.jpg
-      - type: image
-        img: /img/uploads/60cbb5fbc8215830b1983f38_LLS_6.jpg
-      - type: image
-        img: /img/uploads/60cbb5fbeb874a7da44f34e7_LLS_5.jpg
-      - type: image
-        img: /img/uploads/60cbb5fb86e6d5e617141465_LLS_2.jpg
-    section_title: Images Two Column
   - header:
       header_centered: false
     col_count: 3
@@ -126,19 +142,4 @@ sections:
     bg_color_check: false
     misc_layout: false
     section_title: Copy
-  - header:
-      header_centered: false
-    col_count: 3
-    bg_color_check: true
-    section_title: videos 6s
-    media_gallery:
-      - type: video
-        background: false
-        vid: "565124826"
-      - type: video
-        background: false
-        vid: "565124454"
-      - type: video
-        background: false
-        vid: "565124442"
 ---
