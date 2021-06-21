@@ -10,10 +10,5 @@ info: >-
 
   Feel free to drop in a line at hi@hyeonakim.com for any opportunities! ㋡ *･❋ﾟ✧
 img: /img/uploads/T18A9911.png
-resume: /img/uploads/10-sack.gif
-links:
-  - link_title: test
-    link_url: google.com
-  - link_title: test
-    link_url: google.com
+resume: /img/uploads/hyeona-resume-2021.pdf
 ---
