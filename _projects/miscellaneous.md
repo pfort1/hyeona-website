@@ -2,8 +2,7 @@
 layout: project
 title: Miscellaneous
 bg_video: "564782291"
-color: "#FFEE54"
-misc_layout: true
+color: "#FFCB11"
 sections:
   - header:
       header_centered: false
@@ -21,9 +20,24 @@ sections:
         img: /img/uploads/bougie_2.jpg
   - header:
       header_centered: false
+      text_one: A series of self-shot images for White Castle. I also did the nail art
+        for these 💅💅
+    col_count: 3
+    bg_color_check: true
+    misc_layout: true
+    section_title: WC nails
+    media_gallery:
+      - type: image
+        img: /img/uploads/wc_21_lls_nails__0002_layer-0.jpg
+      - type: image
+        img: /img/uploads/wc_21_lls_nails__0001_layer-1.jpg
+      - type: image
+        img: /img/uploads/wc_21_lls_nails__0000_wc_21_lls_lifestyle_nails-41.jpg
+  - header:
+      header_centered: false
       text_one: I created an Instagram selfie filter for White Castle, which lets you
         see what type of slider you are.
-    col_count: 1
+    col_count: 3
     bg_color_check: true
     misc_layout: true
     section_title: "What slider r u filter "
@@ -31,6 +45,10 @@ sections:
       - type: video
         background: false
         vid: "565144041"
+      - type: image
+        img: /img/uploads/filter_2.jpg
+      - type: image
+        img: /img/uploads/filter_1.jpg
   - header:
       header_centered: false
       text_one: Remember when Tr*mp was president in 2016 and that was the scariest
@@ -67,6 +85,7 @@ sections:
       text_one: A series of videos for White Castle x UberEats Delivery posts.
     col_count: 2
     bg_color_check: true
+    misc_layout: true
     section_title: Uber Eats
     media_gallery:
       - type: video
@@ -93,12 +112,12 @@ sections:
     col_count: 2
     bg_color_check: true
     misc_layout: true
-    section_title: Illustrated WC
+    section_title: WC social
     media_gallery:
       - type: image
         img: /img/uploads/summer_card_v2.jpg
       - type: video
-        background: false
+        background: true
         vid: "564792121"
       - type: video
         background: true
