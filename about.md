@@ -9,7 +9,7 @@ info: >-
   \
 
   Drop in a line at hi@hyeonakim.com to chat! ㋡ *･❋ﾟ✧
-img: /img/uploads/T18A9911.png
+img: /img/uploads/hyeona_2.jpg
 resume: /img/uploads/hyeona-resume-2021.pdf
 links:
   - link_title: linkedin
