@@ -118,6 +118,12 @@ sections:
         vid: "564791586"
       - type: image
         img: /img/uploads/wc_i1_social_engagement_1x1.jpg
+      - type: video
+        background: true
+        vid: "564782986"
+      - type: video
+        background: true
+        vid: "564782957"
   - header:
       header_centered: false
       text_one: A [viral
@@ -131,20 +137,6 @@ sections:
     media_gallery:
       - type: image
         img: /img/uploads/lil-uzi-tweet.jpg
-  - header:
-      header_centered: false
-      text_one: A series of videos for White Castle x UberEats Delivery posts.
-    col_count: 2
-    bg_color_check: true
-    misc_layout: true
-    section_title: Uber Eats social grid
-    media_gallery:
-      - type: video
-        background: true
-        vid: "564782986"
-      - type: video
-        background: true
-        vid: "564782957"
   - header:
       header_centered: false
       text_one: The perfect mix of some Disney magic and sparkles all in one short
