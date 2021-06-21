@@ -36,13 +36,10 @@ sections:
         Adnams, a sustainable beer brewery, uses cans that are made with
         recycled materials. These cans are easily transformable into different
         objects. The Party Pack allows cans to be made into party essentials,
-        like a speaker, phone holder and even game pieces for beer pong, skee
-        ball and shot spinner.
+        like a speaker, phone holder and even game pieces.
 
 
-        AD STARS 2019 Gold Winner\
-
-        In collaboration with [Yemoon Cho](https://www.yemooncho.com/)
+        AD STARS 2019 Gold Winner
       text_two: ""
     col_count: 1
     bg_color_check: true
