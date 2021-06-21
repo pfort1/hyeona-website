@@ -7,16 +7,18 @@ color: "#FFCB11"
 sections:
   - header:
       header_centered: true
-      text_one: >-
-        ### Here’s a collection of miscellaneous works.
-
-
-        ### Bits and pieces of personal work, activations, brand posts, illustrations, and more.
+      text_one: ""
     col_count: 1
     bg_color_check: true
     misc_layout: false
     section_title: Copy
-    media_gallery: []
+    media_gallery:
+      - type: text
+        txt: >-
+          ### Here’s a collection of miscellaneous works.
+
+
+          ### Bits and pieces of personal work, activations, brand posts, illustrations, and more.
   - header:
       header_centered: false
       text_one: '"Bougie on a Budget" is a series of stills for 99c Only Stores, shot
