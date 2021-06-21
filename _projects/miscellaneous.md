@@ -27,9 +27,9 @@ sections:
     section_title: Bougie
     media_gallery:
       - type: image
-        img: /img/uploads/bougie_1.jpg
-      - type: image
         img: /img/uploads/bougie_2.jpg
+      - type: image
+        img: /img/uploads/bougie_1.jpg
   - header:
       header_centered: false
       text_one: A series of self-shot images for White Castle, which was a self DIY
