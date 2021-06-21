@@ -32,10 +32,11 @@ sections:
         vid: "564002920"
     section_title: Intro
   - header:
-      header_centered: true
-      text_one: ""
+      header_centered: false
     col_count: 2
-    bg_color_check: false
+    bg_color_check: true
+    misc_layout: false
+    section_title: Featured Videos
     media_gallery:
       - type: video
         background: true
@@ -43,7 +44,22 @@ sections:
       - type: video
         background: true
         vid: "564002698"
-    section_title: Featured Videos
+  - header:
+      header_centered: false
+    col_count: 2
+    bg_color_check: false
+    misc_layout: false
+    media_gallery:
+      - type: text
+        txt: >-
+          ### If burgers are 9 to 5, sliders are 5 to 9. And we mean 5pm to 9am.
+          You know, when the fun stuff happens.
+
+
+          ### Sliders are passionate… edgy… and they dance like no one’s watching.
+      - type: image
+        img: /img/uploads/wc-logo.gif
+    section_title: Copy
   - header:
       header_centered: true
       text_one: We created vignettes around “Sliders” doing things authentically their
@@ -69,33 +85,35 @@ sections:
     col_count: 2
     bg_color_check: true
     media_gallery:
-      - type: image
-        img: /img/uploads/60cbb5fb4d1e5648e10b7508_LLS_1.jpg
+      - type: video
+        background: true
+        vid: "565410500"
       - type: image
         img: /img/uploads/60cbb5fbc8215830b1983f38_LLS_6.jpg
       - type: image
         img: /img/uploads/60cbb5fbeb874a7da44f34e7_LLS_5.jpg
       - type: image
+        img: /img/uploads/lls-burger_2.jpg
+      - type: video
+        background: true
+        vid: "565411232"
+      - type: image
         img: /img/uploads/60cbb5fb86e6d5e617141465_LLS_2.jpg
     section_title: Images Two Column
   - header:
-      header_centered: false
+      header_centered: true
+      text_one: |-
+        ## In life, there are burgers, and there are sliders.
+
+        ## Don’t be a burger. Long Live Sliders.
     col_count: 2
     bg_color_check: false
     misc_layout: false
-    media_gallery:
-      - type: text
-        txt: >-
-          ### If burgers are 9 to 5, sliders are 5 to 9. And we mean 5pm to 9am.
-          You know, when the fun stuff happens.
-
-
-          ### Sliders are passionate… edgy… and they dance like no one’s watching.
-      - type: image
-        img: /img/uploads/wc-logo.gif
     section_title: Copy
   - header:
       header_centered: false
+      text_one: We even released our own line of White Castle themed Giphy stickers
+        for use on social media.
     col_count: 3
     bg_color_check: true
     misc_layout: false
@@ -119,27 +137,4 @@ sections:
         img: /img/uploads/share-love.gif
       - type: image
         img: /img/uploads/disco-ball.gif
-  - header:
-      header_centered: true
-      text_one: ""
-      text_two: ""
-    col_count: 1
-    bg_color_check: false
-    media_gallery:
-      - type: video
-        background: true
-        vid: "564364009"
-      - type: image
-        img: /img/uploads/60ce8ae082c9a8cf5d4c4b7a_LLS_Brand_Wild_Postings.jpg
-    section_title: Featured Videos
-  - header:
-      header_centered: true
-      text_one: |-
-        ## In life, there are burgers, and there are sliders.
-
-        ## Don’t be a burger. Long Live Sliders.
-    col_count: 2
-    bg_color_check: false
-    misc_layout: false
-    section_title: Copy
 ---
