@@ -59,7 +59,7 @@ sections:
         way by being unafraid, unconventional, and unapologetic.
     col_count: 3
     bg_color_check: false
-    section_title: videos 6s
+    section_title: 6s gallery
     media_gallery:
       - type: video
         background: false
