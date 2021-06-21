@@ -100,7 +100,7 @@ sections:
     col_count: 2
     bg_color_check: true
     misc_layout: true
-    section_title: Uber Eats
+    section_title: Uber Eats social grid
     media_gallery:
       - type: video
         background: true
