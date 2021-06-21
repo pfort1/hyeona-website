@@ -18,9 +18,9 @@ sections:
           illustrations, etc. ㋡ *･❋ﾟ✧"
   - header:
       header_centered: false
-      text_one: '"Bougie on a Budget" is a series of ads for the 99c Store, shot with
-        a budget of under $20 in total, to demonstrate that anything can look
-        bougie, even when on a budget.'
+      text_one: '"Bougie on a Budget" is a series of stills for 99c Only Stores, shot
+        with a budget of under $20 in total, to demonstrate that anything can
+        look bougie, even when on a budget.'
     col_count: 2
     bg_color_check: true
     misc_layout: true
@@ -112,7 +112,7 @@ sections:
     col_count: 2
     bg_color_check: true
     misc_layout: true
-    section_title: WC social grid
+    section_title: WC
     media_gallery:
       - type: image
         img: /img/uploads/summer_card_v2.jpg
