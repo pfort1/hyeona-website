@@ -85,6 +85,12 @@ collections:
           media_library:
             config:
               multiple: true
+        - label: Links
+          name: links
+          widget: list
+          fields: 
+            - {label: "Link Title", name: "link_title", widget: "string", required: false}
+            - {label: "Link URL", name: "link_url", widget: "string", required: false}
     - name: collectionOrder
       label: Collection Order
       file: _data/collectionOrder.yml

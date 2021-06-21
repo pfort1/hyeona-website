@@ -427,7 +427,6 @@ a:hover {
   display: -ms-flexbox;
   display: flex;
   width: 100%;
-  margin-top: 15vh;
   -webkit-box-orient: horizontal;
   -webkit-box-direction: normal;
   -webkit-flex-direction: row;
@@ -446,6 +445,7 @@ a:hover {
   grid-template-columns: 1fr 1fr;
   -ms-grid-rows: auto auto auto auto;
   grid-template-rows: auto auto auto auto;
+  min-height: 100vh;
 }
 
 .div-block-5 {
@@ -1169,6 +1169,14 @@ canvas {
 }
 
 @media screen and (max-width: 479px) {
+  .column-6 {
+    top: auto;
+    padding: 30px;
+  }
+  .h-project-content {
+    padding: 60px 0;
+
+  }
   .post-content .vimeo-item iframe {
     position: relative;
     top: 0%;
@@ -1374,12 +1382,6 @@ canvas {
   }
 
   .column-5 {
-    padding-right: 30px;
-    padding-left: 30px;
-  }
-
-  .column-6 {
-    margin-top: -135px;
     padding-right: 30px;
     padding-left: 30px;
   }

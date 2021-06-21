@@ -10,6 +10,11 @@ layout: default
                 <div class="h-text-project color-header small smaller"><span class="text-span">{{page.info|markdownify}}</div>
                 <a data-hover-text="résumé 🔥" href="{{page.resume}}" target="_blank"
                     class="h-text h-link sub">résumé</a>
+                    <div>
+                        {% for link in page.links %}
+                        <a target="_blank" href="{{link.link_url}}">{{link.link_title}}</a>
+                        {% endfor %}
+                    </div>
             </div>
         </div>
     </div>
