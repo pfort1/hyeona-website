@@ -8,9 +8,10 @@ sections:
   - header:
       header_centered: false
       text_one: >-
-        ### Here’s a collection of miscellaneous works.\
+        ### Here’s a collection of miscellaneous works.
 
-        Bits and pieces of personal work, activations, brand posts, illustrations, and more.
+
+        ### Bits and pieces of personal work, activations, brand posts, illustrations, and more.
     col_count: 1
     bg_color_check: true
     misc_layout: false
