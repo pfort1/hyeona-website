@@ -33,7 +33,7 @@ sections:
   - header:
       header_centered: false
       text_one: A series of self-shot images for White Castle, which was a self DIY
-        shoot at home during the pandemic. Nail art by me 💅💅
+        shoot at home during the lockdown. Nail art by me 💅💅
     col_count: 2
     bg_color_check: true
     misc_layout: true
