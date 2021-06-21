@@ -2,12 +2,11 @@
 layout: about
 title: About
 permalink: /about
-info: >-
-  Hyeona is an art director & cat mom extraordinaire, currently based in
-  Brooklyn. *･❋ﾟ✧ ㋡ \
+info: |-
+  Hyeona Kim\
+  /he-on-ah/
 
-  \
-
+  Art director & cat mom extraordinaire, currently based in Brooklyn. *･❋ﾟ✧ ㋡ \
   Drop in a line at hi@hyeonakim.com to chat!
 img: /img/uploads/hyeona_2.jpg
 resume: /img/uploads/hyeona-resume-2021.pdf
