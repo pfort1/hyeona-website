@@ -3,7 +3,7 @@ layout: about
 title: About
 permalink: /about
 info: >-
-  Hyeona is an art director & cat mom extraordinaire currently based in
+  Hyeona is an art director & cat mom extraordinaire, currently based in
   Brooklyn. \
 
   \
