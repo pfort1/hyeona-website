@@ -22,11 +22,13 @@ sections:
       header_centered: false
       text_one: A series of self-shot images for White Castle. I also did the nail art
         for these 💅💅
-    col_count: 3
+    col_count: 2
     bg_color_check: true
     misc_layout: true
     section_title: WC nails
     media_gallery:
+      - type: image
+        img: /img/uploads/wc_21_lls_nails__0001_layer-5.jpg
       - type: image
         img: /img/uploads/wc_21_lls_nails__0002_layer-0.jpg
       - type: image
