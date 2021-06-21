@@ -32,6 +32,26 @@ sections:
         img: /img/uploads/bougie_2.jpg
   - header:
       header_centered: false
+      text_one: Adnams, a sustainable beer brewery, uses cans that are made with
+        recycled materials. These cans are easily transformable into different
+        objects. The Party Pack allows cans to be made into party essentials,
+        like a speaker, phone holder and even game pieces for beer pong, skee
+        ball and shot spinner.
+      text_two: |-
+        Client: Adnams (UK)\
+        AD STARS 2019 Gold Winner
+
+        In collaboration with [Yemoon Cho](https://www.yemooncho.com/)
+    col_count: 1
+    bg_color_check: true
+    misc_layout: true
+    section_title: Adnams Party Pack
+    media_gallery:
+      - type: video
+        background: false
+        vid: "327618675"
+  - header:
+      header_centered: false
       text_one: A series of self-shot images for White Castle, which was a self DIY
         shoot at home during the lockdown. Nail art by me 💅💅
     col_count: 2
@@ -83,6 +103,24 @@ sections:
         img: /img/uploads/img_7952.jpg
   - header:
       header_centered: false
+      text_one: These are some one-off social posts I created for White Castle.
+    col_count: 2
+    bg_color_check: true
+    misc_layout: true
+    section_title: WC social grid
+    media_gallery:
+      - type: image
+        img: /img/uploads/summer_card_v2.jpg
+      - type: video
+        background: true
+        vid: "564792121"
+      - type: video
+        background: true
+        vid: "564791586"
+      - type: image
+        img: /img/uploads/wc_i1_social_engagement_1x1.jpg
+  - header:
+      header_centered: false
       text_one: A [viral
         tweet](https://twitter.com/WhiteCastle/status/1236032881291677696) for
         White Castle, in response to a new album drop by Lil Uzi Vert, who also
@@ -120,42 +158,4 @@ sections:
       - type: video
         background: false
         vid: "449002892"
-  - header:
-      header_centered: false
-      text_one: These are some one-off social posts I created for White Castle.
-    col_count: 2
-    bg_color_check: true
-    misc_layout: true
-    section_title: WC social grid
-    media_gallery:
-      - type: image
-        img: /img/uploads/summer_card_v2.jpg
-      - type: video
-        background: true
-        vid: "564792121"
-      - type: video
-        background: true
-        vid: "564791586"
-      - type: image
-        img: /img/uploads/wc_i1_social_engagement_1x1.jpg
-  - header:
-      header_centered: false
-      text_one: Adnams, a sustainable beer brewery, uses cans that are made with
-        recycled materials. These cans are easily transformable into different
-        objects. The Party Pack allows cans to be made into party essentials,
-        like a speaker, phone holder and even game pieces for beer pong, skee
-        ball and shot spinner.
-      text_two: |-
-        Client: Adnams (UK)\
-        AD STARS 2019 Gold Winner
-
-        In collaboration with [Yemoon Cho](https://www.yemooncho.com/)
-    col_count: 1
-    bg_color_check: true
-    misc_layout: true
-    section_title: Adnams Party Pack
-    media_gallery:
-      - type: video
-        background: false
-        vid: "327618675"
 ---
