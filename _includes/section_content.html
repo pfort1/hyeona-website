@@ -1,6 +1,6 @@
 {% assign numberofprojects = section.media_gallery|size %}
-{% assign sectionTitle = section.section_title|slugify %}
-<div class="post-content-inner grid{% if numberofprojects > 1 %}{% if section.col_count == 2 %} two-column{% elsif section.col_count == 3 %} three-column{% endif %}{% endif %}{% if sectionTitle contains 'social-grid' %} social-grid{% endif %}">
+{% assign sectionTitle = section.section_title %}
+<div class="post-content-inner grid{% if numberofprojects > 1 %}{% if section.col_count == 2 %} two-column{% elsif section.col_count == 3 %} three-column{% endif %}{% endif %}{% if sectionTitle contains 'social grid' or sectionTitle contains 'social-grid' %} social-grid{% endif %}">
     {% for media in section.media_gallery %}
     {% if media.type == 'image' %}
         <img src="{{media.img}}" loading="lazy" alt="" data-aos="fade">

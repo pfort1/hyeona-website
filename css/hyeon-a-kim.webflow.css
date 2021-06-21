@@ -764,6 +764,11 @@ a:hover {
   max-width: 960px;
 }
 
+.social-grid img {
+  max-width: 580px;
+  width: 100%;
+}
+
 .html-embed {
   width: 100%;
   background-color: hsla(0, 0%, 100%, 0.25);
@@ -1058,9 +1063,20 @@ a:hover {
     background-color: #eae6de;
   }
 
+
+
+  .post-content[id="1"] {
+    padding: 50px 15px 50px;
+  }
+
   .grid {
+    grid-auto-columns: 1fr;
     margin-top: 0vw;
     margin-bottom: 4vh;
+  }
+
+  .grid.header-section {
+    grid-template-columns: 1fr;
   }
 
   .nav-logo {
@@ -1077,6 +1093,9 @@ a:hover {
 }
 
 @media screen and (max-width: 479px) {
+  .nav-logo {
+    top: auto;
+  }
   h2 {
     font-size: 24px;
   }
