@@ -14,8 +14,10 @@ sections:
     section_title: Copy
     media_gallery:
       - type: text
-        txt: "### Here’s a collection of miscellaneous stuff – a mixture of one-off
-          pieces, personal work, social posts, videos, illustrations, and more."
+        txt: >-
+          ### Here’s a collection of miscellaneous works.\
+
+          Bits and pieces of personal work, activations, brand posts, illustrations, and more.
   - header:
       header_centered: false
       text_one: '"Bougie on a Budget" is a series of stills for 99c Only Stores, shot
@@ -68,8 +70,9 @@ sections:
         vid: "327618675"
   - header:
       header_centered: false
-      text_one: I created an Instagram selfie filter for White Castle, which lets you
-        see what type of slider you are.
+      text_one: Have you always wondered which White Castle slider you are? Look no
+        further! I created an Instagram filter that lets you see which slider
+        you are.
     col_count: 3
     bg_color_check: true
     misc_layout: true
@@ -108,10 +111,13 @@ sections:
         vid: "564782957"
   - header:
       header_centered: false
-      text_one: "Inspired by the viral [Tide Pod
+      text_one: >-
+        Inspired by the viral [Tide Pod
         Challenge](https://en.wikipedia.org/wiki/Consumption_of_Tide_Pods) in
-        2018, we went out to the Women’s Day March to get crowds to clean the
-        *real* potty mouths instead. #Pods4Rights (ﾉ◕ヮ◕)ﾉ*✲｡⋆"
+        2018, we went out to Women’s Day March to get crowds to clean the *real*
+        potty mouths instead. \
+
+        #Pods4Rights (ﾉ◕ヮ◕)ﾉ*✲｡⋆
     col_count: 1
     bg_color_check: true
     misc_layout: true
