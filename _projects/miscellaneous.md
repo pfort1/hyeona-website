@@ -97,10 +97,10 @@ sections:
   - header:
       header_centered: false
       text_one: A series of videos for White Castle x UberEats Delivery posts.
-    col_count: 1
+    col_count: 2
     bg_color_check: true
     misc_layout: true
-    section_title: Uber Eats social grid
+    section_title: Uber Eats
     media_gallery:
       - type: video
         background: true
@@ -123,10 +123,10 @@ sections:
   - header:
       header_centered: false
       text_one: These are some one-off social posts I created for White Castle.
-    col_count: 1
+    col_count: 2
     bg_color_check: true
     misc_layout: true
-    section_title: WC social
+    section_title: WC social grid
     media_gallery:
       - type: image
         img: /img/uploads/summer_card_v2.jpg
