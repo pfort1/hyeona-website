@@ -52,9 +52,8 @@ sections:
       header_centered: false
       text_one: >-
         Adnams, a sustainable beer brewery, uses cans that are made with
-        recycled materials. These cans are easily transformable into different
-        objects. The Party Pack allows cans to be made into party essentials,
-        like a speaker, phone holder and even game pieces.
+        recycled materials. The Party Pack allows cans to be made into party
+        essentials, like a speaker, phone holder and even game pieces.
 
 
         AD STARS 2019 Gold Winner
@@ -69,9 +68,8 @@ sections:
         vid: "327618675"
   - header:
       header_centered: false
-      text_one: Have you always wondered which White Castle slider you are? Look no
-        further! I created an Instagram filter that lets you see which slider
-        you are.
+      text_one: In case you've always wondered which White Castle slider you are, I
+        created an Instagram filter that tells you.
     col_count: 3
     bg_color_check: true
     misc_layout: true
