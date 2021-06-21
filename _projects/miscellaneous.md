@@ -6,6 +6,18 @@ color: "#FFCB11"
 sections:
   - header:
       header_centered: false
+      text_one: ""
+    col_count: 1
+    bg_color_check: true
+    misc_layout: false
+    section_title: Copy
+    media_gallery:
+      - type: text
+        txt: "### Here’s a collection of miscellaneous stuff – a mixture of one-off
+          commissioned pieces, personal work, social posts, videos,
+          illustrations, etc. ㋡ *･❋ﾟ✧"
+  - header:
+      header_centered: false
       text_one: '"Bougie on a Budget" is a series of ads for the 99c Store, shot with
         a budget of under $20 in total, to demonstrate that anything can look
         bougie, even when on a budget.'
@@ -126,16 +138,4 @@ sections:
         vid: "564791586"
       - type: image
         img: /img/uploads/wc_i1_social_engagement_1x1.jpg
-  - header:
-      header_centered: false
-      text_one: ""
-    col_count: 1
-    bg_color_check: false
-    misc_layout: false
-    section_title: Copy
-    media_gallery:
-      - type: text
-        txt: "### Here’s a collection of miscellaneous stuff – a mixture of one-off
-          commissioned pieces, personal work, social posts, videos,
-          illustrations, etc. ㋡ *･❋ﾟ✧"
 ---
