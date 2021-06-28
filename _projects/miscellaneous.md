@@ -21,6 +21,24 @@ sections:
           ### Bits and pieces of personal work, activations, brand posts, illustrations, and more.
   - header:
       header_centered: false
+      text_one: >-
+        Adnams, a sustainable beer brewery, uses cans that are made with
+        recycled materials. The Party Pack allows cans to be made into party
+        essentials, like a speaker, phone holder and even game pieces.
+
+
+        AD STARS 2019 Gold Winner
+      text_two: ""
+    col_count: 1
+    bg_color_check: true
+    misc_layout: true
+    section_title: Adnams Party Pack
+    media_gallery:
+      - type: video
+        background: false
+        vid: "327618675"
+  - header:
+      header_centered: false
       text_one: '"Bougie on a Budget" is a series of stills for 99c Only Stores, shot
         with a budget of $20 in total, to demonstrate that anything can look
         bougie, even on a budget.'
@@ -50,24 +68,6 @@ sections:
         img: /img/uploads/wc_21_lls_nails__0001_layer-1.jpg
       - type: image
         img: /img/uploads/wc_21_lls_nails__0000_wc_21_lls_lifestyle_nails-41.jpg
-  - header:
-      header_centered: false
-      text_one: >-
-        Adnams, a sustainable beer brewery, uses cans that are made with
-        recycled materials. The Party Pack allows cans to be made into party
-        essentials, like a speaker, phone holder and even game pieces.
-
-
-        AD STARS 2019 Gold Winner
-      text_two: ""
-    col_count: 1
-    bg_color_check: true
-    misc_layout: true
-    section_title: Adnams Party Pack
-    media_gallery:
-      - type: video
-        background: false
-        vid: "327618675"
   - header:
       header_centered: false
       text_one: In case you've always wondered which White Castle slider you are, I
