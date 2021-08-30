@@ -156,4 +156,17 @@ sections:
     media_gallery:
       - type: image
         img: /img/uploads/lil-uzi-tweet.jpg
+  - header:
+      header_centered: true
+      text_one: Here's a series of print ads for Dramamine, which treats motion sickness.
+    col_count: 3
+    bg_color_check: false
+    section_title: Section Dramamine
+    media_gallery:
+      - type: image
+        img: /img/uploads/dramamine-1-–-hyeona-kim.jpg
+      - type: image
+        img: /img/uploads/dramamine-2-–-hyeona-kim.jpg
+      - type: image
+        img: /img/uploads/dramamine-–-hyeona-kim.jpg
 ---
