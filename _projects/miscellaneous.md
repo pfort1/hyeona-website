@@ -160,7 +160,7 @@ sections:
       header_centered: true
       text_one: Here's a series of print ads for Dramamine, which treats motion sickness.
     col_count: 3
-    bg_color_check: false
+    bg_color_check: true
     section_title: Section Dramamine
     media_gallery:
       - type: image
