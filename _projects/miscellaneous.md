@@ -97,7 +97,7 @@ sections:
         img: /img/uploads/filter_1.jpg
   - header:
       header_centered: true
-      text_one: Here's a series of animations for the introduction of White Castle x
+      text_one: Here's a series of animations for the launch of White Castle x
         UberEats partnership.
     col_count: 2
     bg_color_check: true
