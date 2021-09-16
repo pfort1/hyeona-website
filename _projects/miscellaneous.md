@@ -97,7 +97,7 @@ sections:
         img: /img/uploads/filter_1.jpg
   - header:
       header_centered: false
-      text_one: These are some one-off social posts I created for White Castle.
+      text_one: These are some social posts I created for White Castle.
     col_count: 2
     bg_color_check: true
     misc_layout: true
@@ -113,12 +113,20 @@ sections:
         vid: "564791586"
       - type: image
         img: /img/uploads/wc_i1_social_engagement_1x1.jpg
-      - type: video
-        background: true
-        vid: "564782986"
+  - header:
+      header_centered: true
+      text_one: Here's a series of animations for the introduction of White Castle x
+        UberEats partnership.
+    col_count: 2
+    bg_color_check: false
+    section_title: WC x UberEats
+    media_gallery:
       - type: video
         background: true
         vid: "564782957"
+      - type: video
+        background: true
+        vid: "564782986"
   - header:
       header_centered: false
       text_one: >-
