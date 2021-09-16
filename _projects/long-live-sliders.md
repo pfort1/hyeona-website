@@ -76,9 +76,9 @@ sections:
       - type: image
         img: /img/uploads/wc_i3_social_secondary_carousel_bundle_slide3_1x1.jpg
       - type: image
-        img: /img/uploads/img_9732-copy.jpg
-      - type: image
         img: /img/uploads/img_9733-copy.jpg
+      - type: image
+        img: /img/uploads/img_9732-copy.jpg
     section_title: Images Two Column
   - header:
       header_centered: false
