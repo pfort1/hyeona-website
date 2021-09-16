@@ -44,15 +44,15 @@ sections:
       - type: video
         background: true
         vid: "565410500"
+      - type: image
+        img: /img/uploads/60cbb5fbc8215830b1983f38_LLS_6.jpg
+      - type: image
+        img: /img/uploads/60cbb5fbeb874a7da44f34e7_LLS_5.jpg
       - type: text
         txt: |-
           ### In life, there are burgers, and there are Sliders.
 
           ### Don’t be a burger.
-      - type: image
-        img: /img/uploads/60cbb5fbc8215830b1983f38_LLS_6.jpg
-      - type: image
-        img: /img/uploads/60cbb5fbeb874a7da44f34e7_LLS_5.jpg
       - type: image
         img: /img/uploads/lls-burger_2.jpg
       - type: video
