@@ -65,11 +65,11 @@ sections:
         img: /img/uploads/lls-lockup.gif
       - type: image
         img: /img/uploads/lls_4.jpg
-      - type: image
-        img: /img/uploads/lls-endframe_conversion_compressed.gif
       - type: video
         background: true
         vid: "565411232"
+      - type: image
+        img: /img/uploads/lls-endframe_conversion_compressed.gif
       - type: video
         background: true
         vid: "606775506"
@@ -142,9 +142,7 @@ sections:
   - header:
       header_centered: true
       text_one: |-
-        ## In life there are burgers,
-
-        ## and there are Sliders.
+        ### In life there are burgers, and there are Sliders.
 
         ## Don’t be a burger.
     col_count: 1
