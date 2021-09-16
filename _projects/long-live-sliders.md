@@ -142,7 +142,7 @@ sections:
   - header:
       header_centered: true
       text_one: |-
-        ### In life there are burgers, and there are Sliders.
+        ### In life, there are burgers, and there are Sliders.
 
         ## Don’t be a burger.
     col_count: 1
