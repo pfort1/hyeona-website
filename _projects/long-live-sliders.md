@@ -32,6 +32,36 @@ sections:
         vid: "564002920"
     section_title: Intro
   - header:
+      header_centered: true
+      text_one: The new brand campaign launch included a complete re-design of the
+        brand visual identity – branding, photography direction, social media
+        look & feel, etc.
+    col_count: 2
+    bg_color_check: true
+    media_gallery:
+      - type: image
+        img: /img/uploads/lls-lockup.gif
+      - type: video
+        background: true
+        vid: "565410500"
+      - type: text
+        txt: |-
+          ### In life, there are burgers, and there are Sliders.
+
+          ### Don’t be a burger.
+      - type: image
+        img: /img/uploads/60cbb5fbc8215830b1983f38_LLS_6.jpg
+      - type: image
+        img: /img/uploads/60cbb5fbeb874a7da44f34e7_LLS_5.jpg
+      - type: image
+        img: /img/uploads/lls-burger_2.jpg
+      - type: video
+        background: true
+        vid: "565411232"
+      - type: image
+        img: /img/uploads/60cbb5fb86e6d5e617141465_LLS_2.jpg
+    section_title: Images Two Column
+  - header:
       header_centered: false
     col_count: 2
     bg_color_check: false
@@ -71,39 +101,6 @@ sections:
         background: false
         vid: "565124442"
   - header:
-      header_centered: true
-      text_one: The new brand campaign launch included a complete re-design of the
-        brand visual identity – branding, photography direction, social media
-        look & feel, etc.
-    col_count: 2
-    bg_color_check: true
-    media_gallery:
-      - type: video
-        background: true
-        vid: "565410500"
-      - type: image
-        img: /img/uploads/60cbb5fbc8215830b1983f38_LLS_6.jpg
-      - type: image
-        img: /img/uploads/60cbb5fbeb874a7da44f34e7_LLS_5.jpg
-      - type: image
-        img: /img/uploads/lls-burger_2.jpg
-      - type: video
-        background: true
-        vid: "565411232"
-      - type: image
-        img: /img/uploads/60cbb5fb86e6d5e617141465_LLS_2.jpg
-    section_title: Images Two Column
-  - header:
-      header_centered: true
-      text_one: |-
-        ## In life, there are burgers, and there are sliders.
-
-        ## Don’t be a burger. Long Live Sliders.
-    col_count: 2
-    bg_color_check: false
-    misc_layout: false
-    section_title: Copy
-  - header:
       header_centered: false
       text_one: We even released our own line of White Castle themed Giphy stickers
         for use on social media.
@@ -130,4 +127,12 @@ sections:
         img: /img/uploads/share-love.gif
       - type: image
         img: /img/uploads/disco-ball.gif
+  - header:
+      header_centered: false
+    col_count: 1
+    bg_color_check: false
+    section_title: Hero Image
+    media_gallery:
+      - type: image
+        img: /img/uploads/lls_brand_wild_postings_1.jpg
 ---
