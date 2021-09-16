@@ -69,6 +69,17 @@ sections:
       - type: image
         img: /img/uploads/wc_21_lls_nails__0000_wc_21_lls_lifestyle_nails-41.jpg
   - header:
+      header_centered: true
+      text_one: Durex makes it impossible for people to NOT carry condoms by using 5G
+        internet. Let's get online and get on with Durex.
+    col_count: 1
+    bg_color_check: true
+    section_title: Durex 5G-Spot
+    media_gallery:
+      - type: video
+        background: false
+        vid: "330458656"
+  - header:
       header_centered: false
       text_one: In case you've always wondered which White Castle slider you are, I
         created an Instagram filter that tells you.
