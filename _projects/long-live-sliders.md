@@ -70,6 +70,9 @@ sections:
       - type: video
         background: true
         vid: "565411232"
+      - type: video
+        background: true
+        vid: "606775506"
       - type: image
         img: /img/uploads/img_9732-copy.jpg
       - type: image
@@ -90,8 +93,6 @@ sections:
         img: /img/uploads/60cbb5fb86e6d5e617141465_LLS_2.jpg
       - type: image
         img: /img/uploads/s301937-r5-047-22.jpg
-      - type: image
-        img: /img/uploads/lls_3.jpg
   - header:
       header_centered: true
       text_one: We created vignettes around “Sliders” doing things authentically their
