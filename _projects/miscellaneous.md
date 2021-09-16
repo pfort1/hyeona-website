@@ -69,6 +69,17 @@ sections:
       - type: image
         img: /img/uploads/wc_21_lls_nails__0000_wc_21_lls_lifestyle_nails-41.jpg
   - header:
+      header_centered: true
+      text_one: Durex makes it impossible for people to NOT carry condoms by using 5G
+        internet. Let's get online and get on with Durex.
+    col_count: 1
+    bg_color_check: true
+    section_title: Durex 5G-Spot
+    media_gallery:
+      - type: video
+        background: false
+        vid: "330458656"
+  - header:
       header_centered: false
       text_one: In case you've always wondered which White Castle slider you are, I
         created an Instagram filter that tells you.
@@ -86,7 +97,7 @@ sections:
         img: /img/uploads/filter_1.jpg
   - header:
       header_centered: false
-      text_one: These are some one-off social posts I created for White Castle.
+      text_one: These are some social posts I created for White Castle.
     col_count: 2
     bg_color_check: true
     misc_layout: true
@@ -102,12 +113,20 @@ sections:
         vid: "564791586"
       - type: image
         img: /img/uploads/wc_i1_social_engagement_1x1.jpg
-      - type: video
-        background: true
-        vid: "564782986"
+  - header:
+      header_centered: true
+      text_one: Here's a series of animations for the introduction of White Castle x
+        UberEats partnership.
+    col_count: 2
+    bg_color_check: false
+    section_title: WC x UberEats
+    media_gallery:
       - type: video
         background: true
         vid: "564782957"
+      - type: video
+        background: true
+        vid: "564782986"
   - header:
       header_centered: false
       text_one: >-
